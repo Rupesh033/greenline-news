@@ -1,0 +1,38 @@
+{
+  "navigation": {
+    "home": "Home",
+    "categories": "Categories",
+    "login": "Login",
+    "register": "Register",
+    "search": "Search"
+  },
+  "home": {
+    "latestNews": "Latest News",
+    "viewAllLatest": "View All Latest",
+    "trendingNow": "Trending Now",
+    "videoGallery": "Video Gallery",
+    "viewAll": "View All",
+    "breaking": "Breaking"
+  },
+  "footer": {
+    "aboutText": "Greenline News is your trusted source for the latest headlines. \"Truth in Every Line\". We deliver unbiased reporting with a special focus on environment and sustainability.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "subscribe": "Subscribe",
+    "subscribeText": "Get the latest news directly in your inbox.",
+    "allRightsReserved": "All rights reserved.",
+    "termsOfService": "Terms of Service"
+  },
+  "newsletter": {
+    "title": "Subscribe to Greenline News",
+    "subtitle": "Get the day's top headlines and breaking news delivered straight to your inbox.",
+    "placeholder": "Enter your email address",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing! You will receive our next newsletter soon.",
+    "miniPlaceholder": "Your email address",
+    "miniSuccess": "Thank you for subscribing!"
+  }
+}
