@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Article, getCategoryBySlug } from '@/lib/data';
+import { Article, getCategoryById } from '@/lib/data';
 import { Clock } from 'lucide-react';
 
 interface ArticleCardProps {
@@ -10,7 +10,7 @@ interface ArticleCardProps {
 }
 
 export default function ArticleCard({ article, layout = 'grid', lang }: ArticleCardProps) {
-  const category = getCategoryBySlug(article.categoryId, lang) || { name: 'News', slug: 'news' };
+  const category = getCategoryById(article.categoryId, lang) || { name: 'News', slug: 'news' };
   const formattedDate = new Date(article.date).toLocaleDateString('en-US', {
     month: 'short',
     day: 'numeric',
@@ -154,3 +154,4 @@ export default function ArticleCard({ article, layout = 'grid', lang }: ArticleC
     </div>
   );
 }
+

@@ -1,4 +1,4 @@
-import { getArticleBySlug, getCategoryBySlug, getArticlesByCategory } from '@/lib/data';
+import { getArticleBySlug, getCategoryById, getArticlesByCategory } from '@/lib/data';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -15,7 +15,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
     notFound();
   }
 
-  const category = getCategoryBySlug(article.categoryId, lang) || { name: 'News', slug: 'news' };
+  const category = getCategoryById(article.categoryId, lang) || { name: 'News', slug: 'news' };
   const relatedArticles = getArticlesByCategory(article.categoryId, lang).filter(a => a.id !== article.id).slice(0, 3);
   
   const formattedDate = new Date(article.date).toLocaleDateString('en-US', {
@@ -195,3 +195,4 @@ export default async function ArticlePage({ params }: { params: Promise<{ lang: 
     </div>
   );
 }
+
