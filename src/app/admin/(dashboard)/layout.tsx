@@ -19,7 +19,7 @@ import {
   Search,
   ExternalLink
 } from 'lucide-react';
-import { Leaf } from 'lucide-react';
+import Logo from '@/components/Logo';
 
 export default function DashboardLayout({
   children,
@@ -69,10 +69,8 @@ export default function DashboardLayout({
 
       {/* Sidebar */}
       <aside className={`fixed lg:static inset-y-0 left-0 w-64 bg-[#064E3B] text-white flex flex-col z-30 transform transition-transform duration-300 lg:transform-none ${sidebarOpen ? 'translate-x-0' : '-translate-x-full'}`}>
-        <div className="h-16 flex items-center px-6 border-b border-green-800">
-          <Leaf size={24} className="mr-2 text-accent" />
-          <span className="font-bold text-xl font-serif">Greenline</span>
-          <span className="text-green-300 font-bold text-xl font-serif ml-1">Admin</span>
+        <div className="h-16 flex items-center px-5 border-b border-green-800">
+          <Logo variant="admin" />
         </div>
 
         <nav className="flex-1 overflow-y-auto py-4 px-3 space-y-1">

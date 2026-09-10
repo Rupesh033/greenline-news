@@ -13,6 +13,13 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata: Metadata = {
   title: "Greenline News | Truth in Every Line",
   description: "A clean, fast, mobile-friendly news portal with a focus on environment and sustainability.",
+  icons: {
+    icon: "/logo.svg",
+    apple: "/logo.svg",
+  },
+  verification: {
+    google: "eL3h2_89W3LDSa4HFhOseoyWgqXokMy_zsyaqk--_Ic",
+  },
 };
 
 export default async function RootLayout({

@@ -2,9 +2,11 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { Search, Menu, X } from 'lucide-react'
 import { format } from 'date-fns'
 import LanguageSwitcher from './LanguageSwitcher'
+import Logo from './Logo'
 import type { Category } from '@/lib/data'
 
 type HeaderProps = {
@@ -15,22 +17,21 @@ type HeaderProps = {
 
 export default function Header({ dict, categories, lang }: HeaderProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
-  const today = format(new Date(), 'EEEE, MMMM d, yyyy')
+  const today = new Date()
 
   return (
-    <header className="bg-white sticky top-0 z-50">
-      {/* Top Bar */}
-      <div className="bg-primary text-white text-xs py-2">
-        <div className="container mx-auto px-4 max-w-7xl flex justify-between items-center">
-          <div className="hidden sm:block">{today}</div>
-          <div className="flex items-center space-x-4 ml-auto">
+    <header className="w-full bg-white border-b border-gray-200 sticky top-0 z-50">
+      {/* Top Utility Bar */}
+      <div className="border-b border-gray-100 bg-gray-50 text-xs text-gray-500 py-1.5 px-4">
+        <div className="container mx-auto max-w-7xl flex justify-between items-center">
+          <div className="flex items-center space-x-4">
+            <span>{format(today, 'EEEE, MMMM dd, yyyy')}</span>
+            <span className="hidden md:inline">|</span>
+            <span className="hidden md:inline">{dict.navigation.edition}</span>
+          </div>
+          <div className="flex items-center space-x-4">
             <LanguageSwitcher currentLang={lang} />
-            <div className="h-3 w-px bg-white/30 mx-2 hidden sm:block"></div>
-            <Link href="#" className="hover:text-accent transition-colors font-medium">FB</Link>
-            <Link href="#" className="hover:text-accent transition-colors font-medium">X</Link>
-            <Link href="#" className="hover:text-accent transition-colors font-medium">IG</Link>
-            <Link href="#" className="hover:text-accent transition-colors font-medium">YT</Link>
-            <div className="h-3 w-px bg-white/30 mx-2"></div>
+            <span>|</span>
             <Link href={`/${lang}/login`} className="hover:text-accent font-medium transition-colors">{dict.navigation.login}</Link>
             <span>/</span>
             <Link href={`/${lang}/register`} className="hover:text-accent font-medium transition-colors">{dict.navigation.register}</Link>
@@ -39,17 +40,9 @@ export default function Header({ dict, categories, lang }: HeaderProps) {
       </div>
 
       {/* Main Header */}
-      <div className="container mx-auto px-4 max-w-7xl py-6 flex justify-between items-center">
+      <div className="container mx-auto px-4 max-w-7xl py-5 flex justify-between items-center">
         {/* Logo */}
-        <Link href={`/${lang}`} className="flex items-center group">
-          <div className="bg-primary text-white p-2 rounded-lg mr-3 shadow-md group-hover:bg-green-700 transition-colors">
-            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/></svg>
-          </div>
-          <div className="flex flex-col">
-            <span className="font-serif text-3xl font-black text-primary leading-none tracking-tight">Greenline</span>
-            <span className="font-sans text-xl font-bold text-gray-900 leading-none tracking-widest uppercase">News</span>
-          </div>
-        </Link>
+        <Logo lang={lang} variant="header" />
 
         {/* Ad Placeholder (728x90) */}
         <div className="hidden md:flex flex-col items-center justify-center bg-gray-100 text-gray-400 border border-gray-200 rounded w-[728px] h-[90px] shadow-inner text-sm">

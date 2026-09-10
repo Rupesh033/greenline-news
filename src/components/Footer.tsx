@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Leaf } from 'lucide-react'
+import Logo from './Logo'
 import NewsletterBox from './NewsletterBox'
 import type { Category } from '@/lib/data'
 
@@ -17,13 +17,8 @@ export default function Footer({ dict, categories, lang }: FooterProps) {
           
           {/* About Column */}
           <div className="col-span-1 lg:col-span-1">
-            <div className="flex items-center mb-6">
-              <div className="bg-primary text-white p-2 rounded mr-3">
-                <Leaf size={20} />
-              </div>
-              <h2 className="font-serif text-2xl font-bold text-white tracking-tight">
-                Greenline <span className="text-primary font-sans text-xl uppercase tracking-widest">News</span>
-              </h2>
+            <div className="mb-6">
+              <Logo lang={lang} variant="footer" />
             </div>
             <p className="text-sm mb-4 leading-relaxed">
               {dict.footer.aboutText}

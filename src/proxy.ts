@@ -17,8 +17,14 @@ function getLocale(request: NextRequest) {
 }
 
 export function proxy(request: NextRequest) {
-  // Check if there is any supported locale in the pathname
   const pathname = request.nextUrl.pathname
+
+  // Skip static files with extensions (e.g., /logo.svg, /logo.jpg, /favicon.ico)
+  if (pathname.includes('.') || pathname.startsWith('/admin') || pathname.startsWith('/api')) {
+    return NextResponse.next()
+  }
+
+  // Check if there is any supported locale in the pathname
   const pathnameIsMissingLocale = ['/en', '/hi'].every(
     (locale) => !pathname.startsWith(locale + '/') && pathname !== locale
   )
@@ -26,9 +32,6 @@ export function proxy(request: NextRequest) {
   // Redirect if there is no locale
   if (pathnameIsMissingLocale) {
     const locale = getLocale(request)
-
-    // e.g. incoming request is /about
-    // The new URL is now /en/about
     return NextResponse.redirect(
       new URL(`/${locale}${pathname.startsWith('/') ? '' : '/'}${pathname}`, request.url)
     )
@@ -36,6 +39,6 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  // Matcher ignoring `/_next/`, `/api/`, and `/admin`
-  matcher: ['/((?!api|_next/static|_next/image|favicon.ico|admin).*)'],
+  // Matcher ignoring `/_next/`, `/api/`, `/admin`, and any path with a file extension
+  matcher: ['/((?!api|_next/static|_next/image|favicon.ico|admin|.*\\..*).*)'],
 }
