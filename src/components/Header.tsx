@@ -29,9 +29,30 @@ export default function Header({ dict, categories, lang }: HeaderProps) {
             <span className="hidden md:inline">|</span>
             <span className="hidden md:inline">{dict.navigation.edition}</span>
           </div>
-          <div className="flex items-center space-x-4">
+          <div className="flex items-center space-x-3 md:space-x-4">
+            <a 
+              href="https://www.youtube.com/c/GreenLineNews" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-red-600 hover:text-red-700 font-semibold flex items-center gap-1 transition-colors"
+              title="Greenline News YouTube (3.6L+ Subscribers)"
+            >
+              <span className="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
+              <span>YouTube (3.6L+)</span>
+            </a>
+            <span className="text-gray-300">|</span>
+            <a 
+              href="https://www.facebook.com/greenlinenews/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-700 font-semibold transition-colors"
+              title="Greenline News Facebook (2.8L+ Followers)"
+            >
+              FB (2.8L+)
+            </a>
+            <span className="text-gray-300">|</span>
             <LanguageSwitcher currentLang={lang} />
-            <span>|</span>
+            <span className="text-gray-300">|</span>
             <Link href={`/${lang}/login`} className="hover:text-accent font-medium transition-colors">{dict.navigation.login}</Link>
             <span>/</span>
             <Link href={`/${lang}/register`} className="hover:text-accent font-medium transition-colors">{dict.navigation.register}</Link>

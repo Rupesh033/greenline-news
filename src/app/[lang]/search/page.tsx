@@ -49,6 +49,24 @@ function SearchContent() {
             <Search size={20} />
           </button>
         </form>
+
+        <div className="flex flex-wrap justify-center items-center gap-2 mt-4 text-xs">
+          <span className="text-gray-500 font-medium">Popular:</span>
+          {['Garhwa', 'Greenline', 'Viral', 'Jharkhand', 'Politics', 'Sports'].map((tag) => (
+            <button
+              key={tag}
+              type="button"
+              onClick={() => {
+                setQuery(tag);
+                setResults(searchArticles(tag, lang));
+                setHasSearched(true);
+              }}
+              className="bg-gray-100 hover:bg-emerald-100 hover:text-emerald-800 text-gray-700 font-medium px-3 py-1 rounded-full transition-colors"
+            >
+              #{tag}
+            </button>
+          ))}
+        </div>
       </div>
 
       {hasSearched && (
