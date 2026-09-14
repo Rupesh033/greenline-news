@@ -418,7 +418,7 @@ export default async function ArticlePage({
           {/* Sidebar */}
           <aside className="lg:col-span-1 space-y-8">
             <div className="flex justify-center">
-              <AdPlaceholder width={300} height={250} />
+              <AdPlaceholder width={300} height={250} lang={lang} />
             </div>
 
             <div className="bg-white p-6 rounded-lg border border-gray-100 shadow-sm">
@@ -436,7 +436,7 @@ export default async function ArticlePage({
             <NewsletterBox mini />
 
             <div className="flex justify-center sticky top-24">
-              <AdPlaceholder width={300} height={600} />
+              <AdPlaceholder width={300} height={600} lang={lang} />
             </div>
           </aside>
         </div>

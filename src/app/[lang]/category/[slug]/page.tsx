@@ -422,11 +422,11 @@ export default async function CategoryPage({
         {/* Sidebar */}
         <div className="space-y-8">
           <div className="flex justify-center">
-            <AdPlaceholder width={300} height={250} />
+            <AdPlaceholder width={300} height={250} lang={lang} />
           </div>
           <NewsletterBox mini />
           <div className="flex justify-center">
-            <AdPlaceholder width={300} height={600} />
+            <AdPlaceholder width={300} height={600} lang={lang} />
           </div>
         </div>
       </div>

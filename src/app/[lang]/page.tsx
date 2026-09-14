@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import ArticleCard from '@/components/ArticleCard';
+import AdPlaceholder from '@/components/AdPlaceholder';
+import BrightBooksBanner from '@/components/BrightBooksBanner';
 import { getArticles, getVideos, getCategories } from '@/lib/data';
 import { getDictionary, ValidLocale } from '@/lib/dictionaries';
 import { PlayCircle, MapPin, TrendingUp, Building2, ChevronRight } from 'lucide-react';
@@ -363,6 +365,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
       </section>
 
+      {/* Bright Books & Stationery Sponsored Feature Banner */}
+      <BrightBooksBanner lang={validLang} />
+
       {/* Latest News & Trending Grid */}
       <section className="py-12 bg-white border-t border-gray-100">
         <div className="container mx-auto px-4 max-w-7xl">
@@ -414,9 +419,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
                 </div>
               </div>
 
-              {/* Sidebar Ad */}
-              <div className="bg-gray-100 text-gray-400 border border-gray-200 rounded-xl w-full h-[300px] flex items-center justify-center shadow-inner text-sm">
-                Advertisement - 300x300
+              {/* Sidebar Ad: Bright Books & Stationery */}
+              <div className="flex justify-center">
+                <AdPlaceholder width={300} height={300} lang={validLang} />
               </div>
             </div>
           </div>
