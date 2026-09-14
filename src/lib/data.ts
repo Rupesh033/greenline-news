@@ -71,6 +71,465 @@ export const categories_hi: Category[] = [
 
 export const articles_en: Article[] = [
   {
+    "id": "consent-meaning-rights-awareness-en",
+    "title": "Consent क्या है? हर रिश्ते में क्यों जरूरी है",
+    "slug": "consent-meaning-sexual-consent-women-safety-hindi-en",
+    "excerpt": "Consent यानी सहमति। किसी भी शारीरिक संबंध या छूने से पहले दोनों पक्षों की स्वेच्छा से अनुमति जरूरी है। कानून भी बिना सहमति के किए गए कार्य को अपराध मानता है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🛡️ बिना सहमति किया गया कोई भी शारीरिक कार्य कानूनी रूप से अपराध है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> सहमति (Consent) किसी भी स्वस्थ और सम्मानजनक मानवीय रिश्ते की पहली और सबसे अनिवार्य शर्त है। कानून और नैतिकता दोनों ही इस बात पर स्पष्ट हैं कि बिना सहमति के किया गया कोई भी शारीरिक या यौन व्यवहार अपराध की श्रेणी में आता है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Consent का वास्तविक मतलब क्या है?</h3>\n<p class=\"mb-4\">Consent का मतलब सिर्फ “ना न कहना” नहीं है। इसका अर्थ है — <strong>स्वेच्छा से, बिना किसी भय, दबाव, धमकी, नशे या धोखे के और पूरी जानकारी के साथ दी गई स्पष्ट अनुमति</strong>। यदि कोई व्यक्ति डर या लाचारी में 'हाँ' कहता है, तो वह सहमति नहीं मानी जाती। शादी के बाद भी पार्टनर की सहमति आवश्यक है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Consent के 4 मुख्य प्रकार:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>Verbal Consent (मौखिक सहमति):</strong> स्पष्ट, सहज और खुले शब्दों में 'हाँ' कहना।</li>\n<li><strong>Informed Consent (सूचित सहमति):</strong> पूरी जानकारी और परिणामों को समझकर दी गई सहमति।</li>\n<li><strong>Ongoing Consent (सतत सहमति):</strong> हर चरण में सहमति का होना; बीच में किसी भी समय सहमति वापस ली जा सकती है।</li>\n<li><strong>Freely Given (स्वतंत्र सहमति):</strong> बिना किसी नशे, आर्थिक दबाव या नौकरी/परीक्षा के दबाव के।</li>\n</ul>\n\n<div class=\"bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg my-6\">\n<h4 class=\"font-bold text-red-900 mb-1\">मदद और हेल्पलाइन नंबर:</h4>\n<p class=\"text-red-800 text-sm\">यदि किसी के साथ सहमति के बिना दुर्व्यवहार हुआ है, तो चुप न रहें। राष्ट्रीय आपातकालीन नंबर <strong>112</strong>, महिला हेल्पलाइन <strong>181</strong>, चाइल्डलाइन <strong>1098</strong> या जिला विधिक सेवा प्राधिकरण (DLSA) से मुफ्त कानूनी सहायता लें।</p>\n</div>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. Consent क्या है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">अपनी पूर्ण इच्छा और होश में बिना किसी दबाव के दी गई स्पष्ट अनुमति।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या सहमति को बीच में वापस लिया जा सकता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, संबंध के किसी भी क्षण यदि साथी असहज महसूस करे, तो वह मना कर सकता है और तुरंत रुकना अनिवार्य है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. क्या नशे की हालत में दी गई सहमति वैध है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">बिल्कुल नहीं! शराब या ड्रग्स के प्रभाव में व्यक्ति निर्णय लेने की स्थिति में नहीं होता, अतः कानूनन इसे सहमति नहीं माना जाता।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> consent meaning in Hindi, सहमति क्या है, sexual consent, women safety, 181 helpline, legal rights.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "लीगल अवेयरनेस डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:00:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "sextortion-cyber-blackmail-safety-guide-en",
+    "title": "Sextortion: अश्लील वीडियो/फोटो से ब्लैकमेल हो तो क्या करें",
+    "slug": "sextortion-cyber-blackmail-safety-guide-1930-hindi-en",
+    "excerpt": "Sextortion यानी निजी फोटो या वीडियो के जरिए ब्लैकमेल। साइबर ठग वीडियो कॉल रिकॉर्ड करके पैसे मांगते हैं। पुलिस कहती है कि शिकायत में देरी न करें। शर्माने की नहीं, सतर्क रहने की जरूरत है।",
+    "content": "<div class=\"article-lead-badge bg-red-50 text-red-700 border border-red-200 px-4 py-2 rounded-lg font-semibold mb-6\">🚨 घबराएं नहीं, 1930 पर तुरंत शिकायत करें और कोई पैसा ट्रांसफर न करें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>रांची / नई दिल्ली:</strong> सेक्सटॉर्शन एक गंभीर साइबर अपराध है जिसमें अपराधी सोशल मीडिया, डेटिंग ऐप्स या व्हाट्सएप वीडियो कॉल के जरिए पीड़ित की आपत्तिजनक रिकॉर्डिंग बना लेते हैं और फिर उसे परिजनों में वायरल करने की धमकी देकर लाखों की उगाही करते हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">अगर ब्लैकमेलिंग हो रही है तो तुरंत करें ये 5 काम:</h3>\n<ol class=\"list-decimal pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>एक भी रुपया न दें:</strong> पैसे देने से ब्लैकमेलर की मांग खत्म नहीं होती बल्कि और बढ़ती है।</li>\n<li><strong>सारे साक्ष्य (Evidence) सुरक्षित करें:</strong> चैट के स्क्रीनशॉट, वीडियो कॉल का समय, फोन नंबर और पेमेंट यूपीआई आईडी सेव रखें।</li>\n<li><strong>तुरंत 1930 पर कॉल करें:</strong> गृह मंत्रालय के साइबर सेल को सूचित करें और cybercrime.gov.in पर शिकायत दर्ज कराएं।</li>\n<li><strong>सोशल मीडिया अकाउंट प्राइवेट करें:</strong> अपराधी को ब्लॉक करें और अपनी फ्रेंड लिस्ट को सीमित करें।</li>\n<li><strong>मानसिक रूप से मजबूत रहें:</strong> याद रखें आप पीड़ित हैं, अपराधी नहीं। हेल्पलाइन 14416 (Tele-MANAS) पर मुफ्त काउंसलिंग लें।</li>\n</ol>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या पुलिस मेरी पहचान गुप्त रखेगी?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, साइबर अपराध नियमावली के तहत पीड़ित की पहचान पूरी तरह गोपनीय रखी जाती है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या ब्लैकमेलर्स को पैसे देने से मामला सुलझता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">कभी नहीं! पैसा देने के बाद वे बार-बार और बड़ी रकम की मांग करते हैं।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> sextortion, cyber blackmail, 1930 cyber helpline, online safety, revenge porn, cyber crime complaint.</p>",
+    "categoryId": "c_crime",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "साइबर सेल ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:15:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "periods-late-7-reasons-doctor-guide-en",
+    "title": "Periods Late होने के 7 कारण, कब Doctor के पास जाएं",
+    "slug": "periods-late-7-reasons-doctor-guidance-hindi-en",
+    "excerpt": "Periods का देर से आना आम है, लेकिन लगातार ऐसा होना किसी स्वास्थ्य समस्या का संकेत हो सकता है। Stress, PCOS, thyroid, वजन और हार्मोन बदलाव प्रमुख कारण हैं।",
+    "content": "<div class=\"article-lead-badge bg-pink-50 text-pink-700 border border-pink-200 px-4 py-2 rounded-lg font-semibold mb-6\">🩺 हर बार प्रेगनेंसी नहीं होती वजह — जानिए शरीर के 7 अंदरूनी कारण</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> सामान्य मासिक धर्म चक्र 21 से 35 दिनों का होता है। यदि पीरियड्स में एक हफ्ते से अधिक की देरी हो, तो घबराने के बजाय उसके वास्तविक चिकित्सीय कारणों को समझना जरूरी है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">पीरियड्स में देरी के 7 प्रमुख वैज्ञानिक कारण:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>1. अत्यधिक मानसिक तनाव (Stress):</strong> तनाव से कोर्टिसोल हार्मोन बढ़ता है जो ओव्यूलेशन चक्र को बाधित करता है।</li>\n<li><strong>2. PCOS / PCOD:</strong> अंडाशय में छोटे सिस्ट और मेल हार्मोन (एंड्रोजन) बढ़ने से पीरियड्स महीनों रुक जाते हैं।</li>\n<li><strong>3. थायरॉइड असंतुलन (Thyroid):</strong> हाइपोथायरॉइडिज्म या हाइपरथायरॉइडिज्म दोनों ही मेटाबॉलिज्म और पीरियड्स को प्रभावित करते हैं।</li>\n<li><strong>4. वजन में तेजी से उतार-चढ़ाव:</strong> बहुत कम बीएमआई या अचानक मोटापा बढ़ने से एस्ट्रोजन हार्मोन असंतुलित हो जाता है।</li>\n<li><strong>5. आपातकालीन गर्भनिरोधक गोलियां (i-Pill / Morning After):</strong> इनका अनावश्यक सेवन शरीर के प्राकृतिक हार्मोन चक्र को 2-3 महीने तक बिगाड़ देता है।</li>\n<li><strong>6. खून की कमी (Severe Anemia):</strong> हीमोग्लोबिन 9 से कम होने पर शरीर रक्षा तंत्र के तहत रक्तस्राव को रोक देता है।</li>\n<li><strong>7. पेरिमेनोपॉज (Perimenopause):</strong> 40 से 45 वर्ष की आयु के बाद प्राकृतिक हार्मोनल बदलाव।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. पीरियड्स कितने दिन लेट होने पर डॉक्टर से मिलना चाहिए?</p>\n<p class=\"text-gray-700 text-sm mt-1\">यदि देरी 35 दिनों से अधिक हो या लगातार 2 महीने पीरियड्स न आएं तो तुरंत गायनेकोलॉजिस्ट से जांच कराएं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या घरेलू नुस्खे आजमाने चाहिए?</p>\n<p class=\"text-gray-700 text-sm mt-1\">बिना अल्ट्रासाउंड और डॉक्टर की जांच के कोई भी काढ़ा या गर्म दवा न लें, इससे ब्लीडिंग विकार हो सकता है।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> periods late reasons, PCOS, thyroid, irregular periods, महिला स्वास्थ्य, periods in Hindi.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "स्त्री रोग विशेषज्ञ डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:30:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "pcos-pcod-symptoms-diet-treatment-en",
+    "title": "PCOS/PCOD: लक्षण, Diet, Exercise और Treatment",
+    "slug": "pcos-pcod-symptoms-diet-exercise-treatment-hindi-en",
+    "excerpt": "PCOS/PCOD आज युवतियों में तेजी से बढ़ रहा है। अनियमित Periods, वजन बढ़ना, मुंहासे और बाल झड़ना इसके लक्षण हैं। सही diet, exercise और डॉक्टर की सलाह से इसे नियंत्रित किया जा सकता है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">🌿 समय पर पहचान और लाइफस्टाइल बदलाव से PCOS पूरी तरह नियंत्रित संभव</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> भारत में हर पांच में से एक महिला पॉलीसिस्टिक ओवरी सिंड्रोम (PCOS/PCOD) की समस्या से जूझ रही है। यह केवल प्रजनन स्वास्थ्य की समस्या नहीं है बल्कि एक एंडोक्राइन और मेटाबॉलिक विकार है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">PCOS के लिए संपूर्ण डाइट चार्ट:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>क्या खाएं:</strong> हरी पत्तेदार सब्जियां, साबुत दालें, ओट्स, चिया सीड्स, अखरोट, दही और उच्च फाइबर युक्त फल।</li>\n<li><strong>क्या न खाएं:</strong> मैदा, चीनी, रिफाइंड तेल, पैकेज्ड जंक फूड, कोल्ड ड्रिंक्स और बहुत ज्यादा डेयरी उत्पाद।</li>\n<li><strong>व्यायाम:</strong> रोजाना 40 मिनट ब्रिस्क वॉक, सूर्य नमस्कार या स्ट्रेंथ ट्रेनिंग करने से इंसुलिन संवेदनशीलता सुधरती है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या PCOS में गर्भधारण संभव है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ! वजन 5-10% कम करने और उचित चिकित्सकीय उपचार से महिलाएं सामान्य रूप से माँ बन सकती हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. PCOS और PCOD में क्या अंतर है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">PCOD एक सामान्य ओवेरियन डिसऑर्डर है जिसे डाइट से आसानी से ठीक किया जा सकता है, जबकि PCOS एक गहरा हार्मोनल व मेटाबॉलिक सिंड्रोम है।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> PCOS, PCOD, irregular periods, PCOS diet, PCOS treatment, महिला हार्मोन, infertility.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "वेलनेस डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:45:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "breakup-depression-recovery-steps-en",
+    "title": "Breakup के बाद Depression: 7 Practical Steps",
+    "slug": "breakup-depression-healing-recovery-steps-hindi-en",
+    "excerpt": "Breakup के बाद उदासी, नींद न आना और खाना छूटना आम है। लेकिन अगर यह लंबे समय तक रहे तो depression हो सकता है। काउंसलिंग और सपोर्ट से उबरा जा सकता है।",
+    "content": "<div class=\"article-lead-badge bg-indigo-50 text-indigo-700 border border-indigo-200 px-4 py-2 rounded-lg font-semibold mb-6\">💔 अकेले मत सहें — हीलिंग एक यात्रा है, खुद को समय दें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>मुंबई / दिल्ली:</strong> ब्रेकअप सिर्फ एक रिश्ते का टूटना नहीं होता, बल्कि यह एक गहरा मानसिक और भावनात्मक आघात (Emotional Trauma) है। मनोवैज्ञानिकों के अनुसार ब्रेकअप के बाद दिमाग ठीक उसी तरह का दर्द महसूस करता है जैसे किसी शारीरिक चोट में।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">ब्रेकअप डिप्रेशन से बाहर निकलने के 7 कदम:</h3>\n<ol class=\"list-decimal pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>भावनाओं को स्वीकार करें:</strong> रोना कोई कमजोरी नहीं है, अपने दर्द को दबाने के बजाय महसूस करें।</li>\n<li><strong>नो-कांटेक्ट रूल (No-Contact Rule):</strong> पूर्व साथी के सोशल मीडिया प्रोफाइल को चेक करना और पुरानी चैट पढ़ना तुरंत बंद करें।</li>\n<li><strong>दैनिक दिनचर्या बनाएं:</strong> समय पर 8 घंटे सोना, पौष्टिक भोजन और 30 मिनट वर्कआउट दिमाग में सेरोटोनिन बढ़ाता है।</li>\n<li><strong>सपोर्ट सिस्टम से जुड़ें:</strong> सच्चे दोस्तों और परिवार से अपनी बात साझा करें, खुद को बंद कमरे में न रखें।</li>\n<li><strong>नशे से सख्त दूरी:</strong> शराब या ड्रग्स दर्द को खत्म नहीं करते, बल्कि डिप्रेशन को 10 गुना गहरा कर देते हैं।</li>\n<li><strong>नया कौशल या शौक शुरू करें:</strong> संगीत, किताबें, नई भाषा या जिम में अपनी ऊर्जा लगाएं।</li>\n<li><strong>काउंसलर की मदद लें:</strong> Tele-MANAS (14416) या iCall (9152987821) पर अनुभवी मनोवैज्ञानिकों से बात करें।</li>\n</ol>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या ब्रेकअप के बाद डिप्रेशन सामान्य है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">शुरुआती दिनों में उदासी स्वाभाविक है, लेकिन यदि 2-3 हफ़्तों बाद भी जीवन जीने की इच्छा खत्म हो जाए तो यह क्लीनिकल डिप्रेशन का संकेत है।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> breakup depression, दिल टूटना, mental health, Tele-MANAS, counselling, heartbreak recovery.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "रिलेशनशिप काउंसलर",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:00:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "exam-pressure-failure-students-mental-health-en",
+    "title": "Exam Pressure और Failure: Students के लिए Mental Health Guide",
+    "slug": "exam-pressure-failure-students-mental-health-guide-hindi-en",
+    "excerpt": "Exam का तनाव, failure का डर और माता-पिता की उम्मीदें students को मानसिक रूप से तोड़ सकती हैं। विशेषज्ञ कहते हैं कि खुलकर बात करें और मदद लें। मार्क्स से ज्यादा जिंदगी कीमती है।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">📘 एक परीक्षा का रिजल्ट पूरी जिंदगी का फैसला नहीं कर सकता — जीवन अनमोल है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>कोटा / नई दिल्ली:</strong> बोर्ड परीक्षाओं, नीट (NEET) और जेईई (JEE) की तैयारी कर रहे लाखों छात्रों में असफलता का डर एक भयावह रूप लेता जा रहा है। मनोचिकित्सकों का कहना है कि असफलता जीवन का अंत नहीं बल्कि सीखने का एक पड़ाव है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">माता-पिता और छात्रों के लिए जरूरी संदेश:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>मार्क्स से बच्चे का मूल्यांकन न करें:</strong> हर बच्चे की योग्यता अलग होती है। रिश्तेदारों के बच्चों से तुलना करना बच्चे को डिप्रेशन में धकेलता है।</li>\n<li><strong>नींद से समझौता न करें:</strong> लगातार रातभर जागने से एकाग्रता घटती है। कम से कम 7 घंटे की नींद जरूरी है।</li>\n<li><strong>प्लान बी (Plan B) हमेशा रखें:</strong> दुनिया में सैकड़ों ऐसे करियर विकल्प हैं जहाँ बिना किसी इंजीनियरिंग या मेडिकल डिग्री के युवा करोड़ों कमा रहे हैं।</li>\n<li><strong>चाइल्डलाइन और मानसिक हेल्पलाइन:</strong> 1098, 14416 या 1800-599-0019 पर चौबीसों घंटे छात्रों के लिए मुफ्त मनोवैज्ञानिक सहायता उपलब्ध है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> exam pressure, student mental health, failure motivation, Tele-MANAS, suicide prevention, Kota students.</p>",
+    "categoryId": "c10",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "एजुकेशन एक्सपर्ट",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:15:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "job-tension-layoff-depression-guide-en",
+    "title": "Job Tension और Layoff: Depression से कैसे बचें",
+    "slug": "job-tension-layoff-depression-mental-health-guide-hindi-en",
+    "excerpt": "नौकरी का तनाव, लेऑफ का डर और आर्थिक दबाव युवाओं में डिप्रेशन और एंग्जाइटी बढ़ा रहे हैं। विशेषज्ञ कहते हैं कि खुलकर बात करें, स्किल बढ़ाएं और मदद लें।",
+    "content": "<div class=\"article-lead-badge bg-amber-50 text-amber-800 border border-amber-200 px-4 py-2 rounded-lg font-semibold mb-6\">💼 नौकरी जिंदगी का एक हिस्सा है, पूरी जिंदगी नहीं — हौसला रखें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>बेंगलुरु / गुरुग्राम:</strong> कॉर्पोरेट जगत में रीस्ट्रक्चरिंग और लेऑफ की खबरों के बीच लाखों कर्मचारी गंभीर बर्नआउट और करियर एंग्जाइटी का सामना कर रहे हैं। इस दौर में मानसिक संतुलन बनाए रखना सबसे बड़ी प्राथमिकता होनी चाहिए।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">करियर संकट से निपटने की कार्ययोजना:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>इमरजेंसी फंड बनाएं:</strong> कम से कम 4-6 महीने का खर्च लिक्विड फंड में रखें ताकि तनाव कम रहे।</li>\n<li><strong>अपस्किलिंग (Upskilling):</strong> एआई टूल्स, डेटा मैनेजमेंट और क्लाउड टेक्नोलॉजीज में नए सर्टिफिकेशन लें।</li>\n<li><strong>नेटवर्किंग एक्टिव रखें:</strong> लिंक्डइन पर सक्रिय रहें और पूर्व सहकर्मियों से संपर्क बनाए रखें।</li>\n<li><strong>Tele-MANAS 14416:</strong> वित्तीय और नौकरी के तनाव में मानसिक स्वास्थ्य विशेषज्ञों से निशुल्क परामर्श लें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> job tension, layoff depression, mental health at work, Tele-MANAS, career stress, unemployment.</p>",
+    "categoryId": "c4",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "करियर व कॉर्पोरेट डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:30:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "postpartum-depression-new-mothers-symptoms-treatment-en",
+    "title": "Postpartum Depression: नई मांओं की चुप्पी, जानें लक्षण और इलाज",
+    "slug": "postpartum-depression-new-mothers-symptoms-treatment-hindi-en",
+    "excerpt": "बच्चे के जन्म के बाद कई महिलाओं को उदासी, थकान और घबराहट होती है। इसे Postpartum Depression कहते हैं। समय पर पहचान और इलाज से मां और बच्चा दोनों सुरक्षित रह सकते हैं।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🤱 यह कोई कमजोरी या बुरी माँ होने का लक्षण नहीं, एक चिकित्सकीय बीमारी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> प्रसव के बाद 15% से अधिक नई माताएं पोस्टपार्टम डिप्रेशन (PPD) का शिकार होती हैं। समाज इसे सामान्य थकान या मूड स्विंग समझकर नजरअंदाज कर देता है, जिससे स्थिति गंभीर हो जाती है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">PPD के मुख्य लक्षण और परिवार का सहयोग:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>बच्चे के साथ भावनात्मक जुड़ाव महसूस न होना या अत्यधिक अपराधबोध होना।</li>\n<li>हर समय रोने का मन करना और अत्यधिक घबराहट होना।</li>\n<li>पति और परिवार का दायित्व: माँ को अकेला न छोड़ें, बच्चे की देखभाल में हाथ बंटाएं और डॉक्टर से परामर्श कराएं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> postpartum depression, प्रसव के बाद डिप्रेशन, नई मां मानसिक स्वास्थ्य, maternal mental health, Tele-MANAS.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "मातृ एवं शिशु स्वास्थ्य डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:45:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "mens-mental-health-male-depression-awareness-en",
+    "title": "Men’s Mental Health: पुरुषों की चुप्पी क्यों खतरनाक है",
+    "slug": "mens-mental-health-male-depression-awareness-hindi-en",
+    "excerpt": "पुरुष भी डिप्रेशन, एंग्जाइटी और तनाव से जूझते हैं, लेकिन समाज के डर से बात नहीं करते। इससे आत्महत्या और नशे के मामले बढ़ते हैं। विशेषज्ञ कहते हैं कि खुलकर बात करना जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">👤 'मर्द को दर्द नहीं होता' जैसी रूढ़िवादिता तोड़ें — रोना इंसान होने की निशानी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> भारत में पुरुषों में आत्महत्या की दर महिलाओं की तुलना में लगभग ढाई गुना अधिक है। इसका सबसे बड़ा कारण सामाजिक दबाव के चलते पुरुषों द्वारा अपनी मानसिक परेशानियों को दबाए रखना है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">पुरुषों में डिप्रेशन के छिपे हुए संकेत:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>अचानक गुस्सा और चिड़चिड़ापन बढ़ जाना।</li>\n<li>शराब, सिगरेट या अन्य नशों की मात्रा तेजी से बढ़ा देना।</li>\n<li>अत्यधिक वर्कहॉलिक हो जाना ताकि समस्याओं से ध्यान भटकाया जा सके।</li>\n<li>हेल्पलाइन 14416 पर पूरी तरह गुप्त और निशुल्क सहायता प्राप्त करें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> men’s mental health, पुरुष डिप्रेशन, male depression, suicide prevention, Tele-MANAS, toxic masculinity.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "पुरुष स्वास्थ्य डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:00:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "mobile-addiction-digital-detox-guide-en",
+    "title": "Mobile Addiction: स्मार्टफोन की लत कैसे छोड़ें",
+    "slug": "mobile-addiction-digital-detox-screen-time-guide-hindi-en",
+    "excerpt": "स्मार्टफोन की लत बच्चों से लेकर बड़ों तक को प्रभावित कर रही है। इससे नींद, पढ़ाई, काम और रिश्ते खराब हो रहे हैं। विशेषज्ञ कहते हैं कि डिजिटल डिटॉक्स और नियम बनाना जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">📱 डिजिटल डिटॉक्स अपनाएं — स्क्रीन की कैद से निकलकर असली जिंदगी जिएं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>बेंगलुरु:</strong> औसत भारतीय युवा दिनभर में 6 से 7 घंटे फोन स्क्रीन पर बिता रहा है। यह डोपामाइन लूप मानसिक एकाग्रता को खत्म कर रहा है और अनिद्रा व डिप्रेशन को बढ़ावा दे रहा है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">स्क्रीन टाइम घटाने के 5 प्रभावी तरीके:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>सोने से 1 घंटे पहले फोन को बेडरूम से बाहर चार्जिंग पर लगाएं।</li>\n<li>सभी गैर-जरूरी सोशल मीडिया नोटिफिकेशन्स को हमेशा के लिए ऑफ रखें।</li>\n<li>हफ्ते में एक दिन 'डिजिटल उपवास' (Digital Detox Day) रखें।</li>\n<li>बच्चों को 5 साल तक स्मार्टफोन बिल्कुल न दें, उन्हें खेलकूद में लगाएं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> mobile addiction, digital detox, screen time, smartphone addiction, बच्चों में मोबाइल, mental health.</p>",
+    "categoryId": "c5",
+    "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "डिजिटल वेलनेस डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:15:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "therapy-guide-cost-online-tele-manas-en",
+    "title": "Therapy कैसे शुरू करें? Cost, Online Therapy, Tele-MANAS",
+    "slug": "how-to-start-therapy-cost-online-tele-manas-hindi-en",
+    "excerpt": "मानसिक स्वास्थ्य समस्या हो तो थेरेपी लेना जरूरी है। कई लोगों को पता नहीं होता कि थेरेपी कहां, कैसे और कितने पैसे में मिलती है। सरकारी और ऑनलाइन विकल्प उपलब्ध हैं।",
+    "content": "<div class=\"article-lead-badge bg-purple-50 text-purple-700 border border-purple-200 px-4 py-2 rounded-lg font-semibold mb-6\">💡 मानसिक स्वास्थ्य के लिए थेरेपिस्ट से मिलना समझदारी और बहादुरी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> जब दिल या दांत में दर्द होता है तो हम डॉक्टर के पास जाते हैं, ठीक उसी तरह जब मन और भावनाओं में पीड़ा हो तो मनोवैज्ञानिक (Psychologist) से मिलना चाहिए।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">थेरेपी के सस्ते और सुलभ विकल्प:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>सरकारी अस्पताल:</strong> जिला अस्पतालों और एम्स (AIIMS) में मात्र 10-20 रुपये के पर्चे पर विशेषज्ञ मनोचिकित्सक मिलते हैं।</li>\n<li><strong>Tele-MANAS:</strong> 14416 टोल-फ्री नंबर पर कॉल कर घर बैठे क्लिनिकल साइकोलॉजिस्ट से बात करें।</li>\n<li><strong>ऑनलाइन ऐप्स:</strong> Amaha, Practo या MindClan पर 500 से 1500 रुपये प्रति सेशन में ऑनलाइन थेरेपी उपलब्ध है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> therapy kaise shuru kare, online therapy, Tele-MANAS, mental health counselling, iCall, depression treatment.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "साइकोलॉजी डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:30:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "workplace-burnout-job-stress-balance-en",
+    "title": "Workplace Burnout: नौकरी में थकान और तनाव से कैसे बचें",
+    "slug": "workplace-burnout-job-stress-work-life-balance-hindi-en",
+    "excerpt": "लगातार काम का बोझ, ओवरटाइम और तनाव से वर्कप्लेस बर्नआउट होता है। इससे थकान, चिड़चिड़ापन और डिप्रेशन बढ़ता है। विशेषज्ञ कहते हैं कि ब्रेक, बाउंड्री और मदद जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-amber-50 text-amber-800 border border-amber-200 px-4 py-2 rounded-lg font-semibold mb-6\">⚙️ बर्नआउट को नजरअंदाज न करें — मानसिक स्वास्थ्य से बढ़कर कोई काम नहीं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>गुरुग्राम / पुणे:</strong> विश्व स्वास्थ्य संगठन (WHO) द्वारा बर्नआउट को एक आधिकारिक सिंड्रोम घोषित किया गया है। लगातार 10-12 घंटे काम और छुट्टियों में भी ऑफिशियल ईमेल चेक करने की आदत शरीर और मन को निचोड़ देती है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">वर्कप्लेस बाउंड्री तय करने के नियम:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>ऑफिस समय खत्म होने के बाद वर्क चैट और लैपटॉप बंद करें।</li>\n<li>हर 90 मिनट के काम के बाद 5 मिनट का वॉक ब्रेक लें।</li>\n<li>कंपनी एचआर और मैनेजर से काम के अत्यधिक दबाव पर खुलकर बातचीत करें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> workplace burnout, job stress, काम का तनाव, mental health at work, Tele-MANAS, work-life balance.</p>",
+    "categoryId": "c4",
+    "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "एचआर व करियर टीम",
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:45:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "first-night-fear-condom-safe-sex-story-en",
+    "title": "“पहली रात का डर” — Condom कैसे पहनें? एक नई शादी की कहानी",
+    "slug": "pehli-raat-ka-dar-condom-safe-sex-awareness-story-hindi-en",
+    "excerpt": "नई शादी के बाद कई जोड़े Contraception को लेकर उलझन में रहते हैं। सही जानकारी न होने से डर, झिझक और अनचाही Pregnancy जैसी समस्याएं होती हैं। एक कहानी के जरिए समझें कि Condom का सही इस्तेमाल कैसे करें।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">📖 रियल लाइफ अवेयरनेस स्टोरी: शर्म नहीं, सीखना और समझना जरूरी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">रिया और आरव की शादी को दो महीने हुए थे। दोनों शिक्षित और सभ्य, लेकिन अंतरंगता और सुरक्षा को लेकर दोनों के मन में एक गहरा संकोच था। स्कूल और कॉलेज में कभी वैज्ञानिक यौन शिक्षा नहीं मिली थी और इंटरनेट पर भ्रामक सामग्रियां थीं।</p>\n\n<p class=\"mb-4\">जब दोनों ने संकोच त्यागकर सरकारी अस्पताल के परिवार नियोजन विभाग में डॉ. मीना से सलाह ली, तो डॉक्टर ने उन्हें समझाया: “कंडोम केवल अनचाहे गर्भ से ही नहीं बचाता, बल्कि एचआईवी और गंभीर यौन संक्रमणों से भी 98% सुरक्षा देता है।”</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">डॉक्टर द्वारा बताए गए 5 स्वर्णिम नियम:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>पैकेट की एक्सपायरी डेट अवश्य देखें। कभी भी पैकेट को दांत या कैंची से न फाड़ें।</li>\n<li>कंडोम के ऊपरी हिस्से (टिप) को हल्के से दबाकर हवा निकाल दें ताकि वह संबंध के दौरान फटे नहीं।</li>\n<li>संबंध समाप्त होने के तुरंत बाद इसे सावधानी से उतारें और टिश्यू पेपर में लपेटकर डस्टबिन में डालें।</li>\n<li>यदि कंडोम फट जाए, तो 72 घंटे के अंदर इमरजेंसी पिल (Emergency Contraceptive) लें और डॉक्टर से मिलें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> condom kaise pehne, condom use in Hindi, safe sex, contraception, emergency pill, STI prevention.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "फैमिली वेलफेयर डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:00:00Z",
+    "readTime": "6 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "unspoken-pain-women-sexual-health-story-en",
+    "title": "“दर्द जो कोई नहीं समझता” — महिलाओं में सेक्सुअल समस्याएं",
+    "slug": "unspoken-pain-women-sexual-health-dyspareunia-story-hindi-en",
+    "excerpt": "कई महिलाएं सेक्स के दौरान दर्द, इच्छा में कमी या अन्य समस्याओं को चुपचाप सहती हैं। समाज के डर से वे डॉक्टर के पास नहीं जातीं। विशेषज्ञ कहते हैं कि हर समस्या का इलाज संभव है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🌸 दर्द सहना कमजोरी या कर्तव्य नहीं है — स्त्री रोग विशेषज्ञ से तुरंत जांच कराएं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">स्नेहा की शादी को तीन साल हो चुके थे, लेकिन अंतरंग पलों में होने वाला तेज दर्द उसकी जिंदगी को नर्क बना रहा था। पति को लगा कि यह सिर्फ उसका वहम है। जब उसने एक महिला डॉक्टर से जांच कराई, तो पता चला कि वह एंडोमेट्रियोसिस (Endometriosis) और पेल्विक इंफेक्शन से पीड़ित थी। सही इलाज से उसका दर्द हमेशा के लिए खत्म हो गया।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">महिलाओं में होने वाली मुख्य समस्याएं:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>डिस्पेरूनिया (Dyspareunia):</strong> संबंध के दौरान या बाद में तेज दर्द होना।</li>\n<li><strong>वेजिस्मस (Vaginismus):</strong> अनैच्छिक मांसपेशियों का संकुचन।</li>\n<li><strong>हार्मोनल ड्राईनेस व इन्फेक्शन:</strong> फंगल या बैक्टीरियल इन्फेक्शन से तेज जलन और खुजली।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> महिलाओं में सेक्स समस्या, dyspareunia, sexual health women, endometriosis, couple counselling, women health.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "स्त्री रोग विशेषज्ञ डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:15:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "burden-of-manhood-erectile-dysfunction-story-en",
+    "title": "“मर्दानगी का बोझ” — पुरुषों में नपुंसकता की कहानी",
+    "slug": "erectile-dysfunction-mens-health-awareness-story-hindi-en",
+    "excerpt": "पुरुषों में Erectile Dysfunction यानी नपुंसकता आज एक आम समस्या है, लेकिन शर्म के कारण ज्यादातर पुरुष डॉक्टर के पास नहीं जाते। सही इलाज से यह ठीक हो सकता है।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">🩺 यह कोई शर्म की बात नहीं, बल्कि हाई बीपी और डायबिटीज जैसी सामान्य बीमारी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">38 वर्षीय विकास को जब इरेक्टाइल डिस्फंक्शन (ED) की समस्या हुई तो उसने शर्म के मारे दोस्तों से WhatsApp पर मिली फर्जी गोलियां खानी शुरू कीं, जिससे उसकी दिल की धड़कन बढ़ गई। जब वह योग्य यूरोलॉजिस्ट के पास पहुंचा, तो पता चला कि इसका कारण उसकी अनियंत्रित डायबिटीज और तनाव था।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">डॉक्टर की सख्त सलाह:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>सड़क किनारे लगे बोर्ड या सोशल मीडिया के फर्जी नीम-हकीमों के चक्कर में अपनी जान जोखिम में न डालें।</li>\n<li>ब्लड शुगर, लिपिड प्रोफाइल और टेस्टोस्टेरोन की जांच कराएं। 90% मामलों में दवा और स्वस्थ लाइफस्टाइल से पूर्ण सुधार होता है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> erectile dysfunction, नपुंसकता, men’s sexual health, low testosterone, diabetes, couple counselling.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "यूरोलॉजी एवं पुरुष स्वास्थ्य डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:30:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "fear-real-face-hiv-10-myths-facts-story-en",
+    "title": "“डर का असली चेहरा” — HIV के 10 Myths",
+    "slug": "hiv-aids-10-myths-facts-treatment-awareness-hindi-en",
+    "excerpt": "HIV को लेकर आज भी समाज में डर और भ्रम है। कई लोग HIV पॉजिटिव लोगों से दूरी बनाते हैं, जो गलत है। सही जानकारी और इलाज से HIV पॉजिटिव व्यक्ति सामान्य जीवन जी सकता है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🎗️ HIV छूने से नहीं फैलता — अज्ञानता से डरें, इंसान से नहीं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">26 वर्षीय अमन जब एचआईवी पॉजिटिव पाया गया तो उसने डिप्रेशन में खाना-पीना छोड़ दिया। लेकिन जब वह सरकारी एआरटी (ART) सेंटर गया, तो डॉक्टरों ने बताया कि आधुनिक एंटीरेट्रोवायरल दवाओं से आज एचआईवी एक सामान्य क्रोनिक बीमारी बन चुका है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">HIV से जुड़े 10 बड़े भ्रम और सच्चाई:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>हाथ मिलाने, साथ खाने, गले लगाने या टॉयलेट साझा करने से एचआईवी कभी नहीं फैलता।</li>\n<li>मच्छर के काटने से एचआईवी नहीं फैलता।</li>\n<li>एचआईवी का मतलब मृत्यु नहीं है; नियमित दवा लेने पर मरीज 70-80 वर्ष तक सामान्य जीवन जीता है।</li>\n<li>सरकारी आईसीटीसी (ICTC) केंद्रों में जांच और दवाइयां पूरी तरह मुफ्त उपलब्ध हैं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> HIV myths, HIV treatment, ART, HIV testing, ICTC, AIDS awareness, HIV in Hindi.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "संक्रामक रोग जागरूकता ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:45:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "pain-after-intimacy-pelvic-health-story-en",
+    "title": "“वो रात जो दर्द बन गई” — सेक्स के बाद दर्द की कहानी",
+    "slug": "pain-after-intimacy-pelvic-inflammatory-disease-story-hindi-en",
+    "excerpt": "कई महिलाओं को सेक्स के बाद दर्द होता है, लेकिन वे इसे सामान्य मानकर सहती हैं। यह किसी संक्रमण, इंजरी या अन्य समस्या का संकेत हो सकता है। समय पर इलाज जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🩺 दर्द को नजरअंदाज न करें — जानिए पेल्विक इंफ्लेमेटरी डिजीज (PID) के खतरे</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">मीरा हर बार संबंध के बाद पेट के निचले हिस्से में होने वाले असहनीय दर्द को सामान्य मानती रही। जब दर्द बर्दाश्त से बाहर हुआ तो जांच में पेल्विक इंफ्लेमेटरी डिजीज (PID) का पता चला। समय पर एंटीबायोटिक्स कोर्स से उसकी समस्या ठीक हुई।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">कब तुरंत डॉक्टर के पास जाएं?</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>संबंध के बाद तेज पेल्विक दर्द या बुखार महसूस होना।</li>\n<li>असामान्य, बदबूदार स्राव या असामान्य ब्लीडिंग होना।</li>\n<li>पेशाब में तेज जलन या लगातार भारीपन रहना।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> sex ke baad dard, pelvic inflammatory disease, dyspareunia, महिला स्वास्थ्य, STD, women health.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "महिला कल्याण डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:00:00Z",
+    "readTime": "5 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "womens-asia-cup-2026-india-trophy-controversy-mohsin-naqvi-en",
+    "title": "विमेंस एशिया कप 2026: मोहसिन नकवी और भारतीय महिला क्रिकेट टीम विवाद, टीम इंडिया ने ट्रॉफी लेने से किया इनकार",
+    "slug": "womens-asia-cup-2026-final-india-sri-lanka-mohsin-naqvi-trophy-controversy-en",
+    "excerpt": "विमेंस एशिया कप 2026 के फाइनल में भारतीय महिला क्रिकेट टीम ने श्रीलंका को 72 रनों से हराकर रिकॉर्ड 8वीं बार खिताब जीता। हालांकि, एसीसी अध्यक्ष मोहसिन नकवी के हाथों ट्रॉफी लेने से इनकार के बाद सेरेमनी बिना ट्रॉफी समाप्त हुई।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-800 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">🏆 टीम इंडिया 8वीं बार बनी एशिया कप चैंपियन — प्रेजेंटेशन सेरेमनी में बना हाई-वोल्टेज ड्रामा</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>कोलंबो / नई दिल्ली:</strong> विमेंस एशिया कप 2026 के फाइनल मुकाबले में भारतीय महिला राष्ट्रीय क्रिकेट टीम ने शानदार खेल का प्रदर्शन करते हुए श्रीलंका को 72 रनों के बड़े अंतर से मात देकर रिकॉर्ड 8वीं बार एशिया कप का ताज अपने नाम कर लिया।</p>\n\n<p class=\"mb-4\">हालांकि मैच के बाद आयोजित प्रेजेंटेशन सेरेमनी में उस वक्त भारी कूटनीतिक विवाद खड़ा हो गया जब भारतीय महिला टीम ने एशियन क्रिकेट काउंसिल (ACC) के अध्यक्ष और पाकिस्तान के गृहमंत्री मोहसिन नकवी के हाथों से विनर ट्रॉफी लेने से साफ मना कर दिया। टीम इंडिया के इस कड़े रुख के बाद आयोजकों को बिना ट्रॉफी सौंपे ही सेरेमनी समाप्त करनी पड़ी।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">मैच का संक्षिप्त हाल:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>भारत ने पहले बल्लेबाजी करते हुए निर्धारित 20 ओवरों में 4 विकेट पर 182 रन बनाए।</li>\n<li>स्मृति मंधाना ने 44 गेंदों पर शानदार 68 रनों की कप्तानी पारी खेली, जबकि जेमिमा रोड्रिग्स ने नाबाद 42 रन जोड़े।</li>\n<li>लक्ष्य का पीछा करने उतरी श्रीलंकाई टीम भारतीय स्पिन गेंदबाजी के सामने 18.4 ओवरों में मात्र 110 रनों पर सिमट गई।</li>\n<li>दीप्ति शर्मा ने 4 ओवरों में मात्र 15 रन देकर 4 बड़े विकेट चटकाए और प्लेयर ऑफ द मैच रहीं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Women Asia cup 2026, Mohsin Naqvi, Indian women cricket team, trophy controversy, Smriti Mandhana, ACC president.</p>",
+    "categoryId": "c6",
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "स्पोर्ट्स डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:15:00Z",
+    "readTime": "5 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "rajasthan-nikay-chunav-results-2026-bjp-congress-en",
+    "title": "राजस्थान निकाय चुनाव 2026 परिणाम: बीजेपी का दबदबा, 3500+ वार्ड जीतकर फहराया परचम",
+    "slug": "rajasthan-nikay-chunav-results-2026-bjp-congress-ward-wise-winners-en",
+    "excerpt": "राजस्थान में 309 नगरीय निकायों के चुनाव परिणाम घोषित। सत्तारूढ़ बीजेपी ने 3,587 से अधिक वार्ड जीतकर कांग्रेस पर निर्णायक बढ़त हासिल की। जयपुर, कोटा और उदयपुर में खिला कमल।",
+    "content": "<div class=\"article-lead-badge bg-amber-50 text-amber-800 border border-amber-200 px-4 py-2 rounded-lg font-semibold mb-6\">🗳️ 2028 विधानसभा चुनाव से पहले का सेमीफाइनल — 10 में से 8 नगर निगमों में बीजेपी का कब्जा</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>जयपुर:</strong> राजस्थान में 309 नगर निकायों (नगर निगम, नगर परिषद और नगरपालिकाओं) के बहुप्रतीक्षित चुनाव परिणाम घोषित हो चुके हैं। सत्तारूढ़ भारतीय जनता पार्टी (BJP) ने प्रचंड जीत दर्ज करते हुए कांग्रेस को बड़े अंतर से पीछे छोड़ दिया है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">सीटों का आंकड़ा और प्रमुख निगमों का हाल:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>बीजेपी ने 3,587 से अधिक वार्डों में ऐतिहासिक जीत दर्ज की है, जबकि कांग्रेस 3,050 वार्डों पर सिमट गई।</li>\n<li>जयपुर हेरिटेज, जयपुर ग्रेटर, कोटा और उदयपुर नगर निगमों में बीजेपी का बोर्ड बनना तय हो गया है।</li>\n<li>बीकानेर में हालांकि केंद्रीय मंत्री अर्जुनराम मेघवाल के प्रभाव क्षेत्र में कांग्रेस ने अप्रत्याशित रूप से बीजेपी को हराकर अपनी बढ़त बनाई है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Rajasthan Nikay Chunav 2026, Rajasthan municipal elections, BJP vs Congress, Jaipur municipal corporation results.</p>",
+    "categoryId": "c3",
+    "imageUrl": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "राजनीतिक ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:30:00Z",
+    "readTime": "4 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "football-ligue-1-brest-vs-psg-match-report-en",
+    "title": "फुटबॉल लीग 1: Brest vs PSG रोमांचक मुकाबला, फेरान टोरेस के गोल से पेरिस सेंट-जर्मेन की 1-0 से जीत",
+    "slug": "ligue-1-brest-vs-psg-match-report-ferran-torres-goal-en",
+    "excerpt": "फ्रांसीसी लीग 1 के रोमांचक मुकाबले में पेरिस सेंट-जर्मेन (PSG) ने ब्रेस्ट को 1-0 से हरा दिया। 5वें मिनट में फेरान टोरेस ने निर्णायक गोल किया।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">⚽ Ligue 1 2026-27: गोलकीपर सफोनोव के शानदार बचावों से PSG ने दर्ज की जीत</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>पेरिस:</strong> फ्रांसीसी फुटबॉल लीग (Ligue 1) 2026–27 सीजन के एक कड़े मुकाबले में पेरिस सेंट-जर्मेन (PSG) ने स्टेड ब्रेस्टोइस (Brest) को 1-0 से शिकस्त दी। मैच का एकमात्र और विजयी गोल खेल के 5वें मिनट में स्पेनिश स्टार फेरान टोरेस ने ओसमाने डेम्बेले के शानदार क्रॉस पर दागा।</p>\n\n<p class=\"mb-4\">ब्रेस्ट की टीम ने पूरे मैच में शानदार आक्रामकता दिखाई, लेकिन PSG के गोलकीपर मत्वे सफोनोव की दीवार को भेदने में नाकाम रहे। इस जीत के साथ PSG अंक तालिका में शीर्ष पर पहुंच गई है।</p>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Brest vs PSG, Ligue 1, Ferran Torres goal, Paris Saint-Germain, football scores.</p>",
+    "categoryId": "c6",
+    "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "इंटरनेशनल स्पोर्ट्स डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:45:00Z",
+    "readTime": "4 min",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "systemiq-himalayan-glaciers-melting-black-carbon-study-en",
+    "title": "Systemiq स्टडी की चेतावनी: 65% तेजी से पिघल रहे हिमालय के ग्लेशियर, ब्लैक कार्बन बना बड़ा खतरा",
+    "slug": "systemiq-himalayan-glaciers-melting-black-carbon-water-security-study-en",
+    "excerpt": "ग्लोबल सस्टेनेबिलिटी फर्म Systemiq की रिपोर्ट: हिमालय के ग्लेशियर एक दशक पहले की तुलना में 65% तेजी से पिघल रहे हैं। मैदानी इलाकों के ईंट-भट्ठों से निकलने वाला ब्लैक कार्बन 33% पिघलन का जिम्मेदार।",
+    "content": "<div class=\"article-lead-badge bg-cyan-50 text-cyan-800 border border-cyan-200 px-4 py-2 rounded-lg font-semibold mb-6\">🏔️ 'ग्लेशियर दिवालियेपन' की कगार पर एशिया का वाटर टॉवर — 2 अरब लोगों पर जल संकट का खतरा</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>लंदन / नई दिल्ली:</strong> वैश्विक पर्यावरण शोध संस्था Systemiq द्वारा जारी ताजा रिपोर्ट ने पूरी दुनिया के वैज्ञानिकों को स्तब्ध कर दिया है। रिपोर्ट के अनुसार हिंदूकुश हिमालय के ग्लेशियर पिछले एक दशक की तुलना में 65% अधिक तीव्र गति से पिघल रहे हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">अध्ययन के सबसे चौंकाने वाले बिंदु:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>ब्लैक कार्बन (कालिख) का कहर:</strong> ग्लेशियरों के पिघलने का 33% कारण मैदानी इलाकों के ईंट-भट्ठों, पराली और डीजल वाहनों से निकलने वाली कालिख है, जो बर्फ पर चिपककर धूप सोखती है।</li>\n<li><strong>भारतीय अर्थव्यवस्था पर असर:</strong> हिमालय का जल तंत्र भारत की 20% जीडीपी को जीवनरेखा प्रदान करता है। यदि यह पिघलन नहीं थमी, तो गंगा, सिंधु और ब्रह्मपुत्र बेसिन में भयानक सूखा और बाढ़ आएगी।</li>\n<li><strong>वैज्ञानिकों की अपील:</strong> तत्काल प्रभाव से ग्रीन ब्रिक-किलन टेक्नोलॉजी और शून्य-उत्सर्जन वाहनों को अनिवार्य किया जाए।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Systemiq Himalayan glaciers, climate change India, black carbon pollution, glacier melting, water crisis Asia.</p>",
+    "categoryId": "c8",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "पर्यावरण व क्लाइमेट डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T19:00:00Z",
+    "readTime": "5 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "sexual-health-5-myths-facts-en",
+    "title": "Sexual Health: 5 Common Myths People Still Believe as Facts",
+    "slug": "sexual-health-5-myths-facts-doctor-verified-awareness",
+    "excerpt": "Sexual health misconceptions remain widespread. Medical experts emphasize that lack of factual awareness delays critical diagnosis. Open, scientific dialogue is essential for holistic wellbeing.",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">📌 Doctor-verified facts: Prioritize knowledge over social stigma</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>New Delhi / Ranchi:</strong> Open dialogue surrounding sexual health remains hindered by social taboos across many communities. However, healthcare professionals stress that accurate awareness and timely medical intervention prevent severe complications. Sexual wellness is integral to overall physical vitality, reproductive health, mental balance, and mutual consent.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 1: “Condoms completely eliminate chances of parenthood” — False</h3>\n<p class=\"mb-4\">Condoms provide dual protection: they effectively prevent unintended pregnancies when properly used and offer up to 98% protection against life-altering sexually transmitted infections (STIs/STDs) like HIV, syphilis, and gonorrhea.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 2: “Late menstrual periods strictly signify pregnancy” — Not necessarily</h3>\n<p class=\"mb-4\">Delays in menstrual cycles frequently stem from acute emotional stress, polycystic ovary syndrome (PCOS), thyroid disorders, sudden body weight fluctuations, hormonal imbalances, or specific pharmaceutical treatments. If irregularities persist across cycles, consulting a certified gynecologist is vital.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 3: “STIs only affect specific demographics” — They can affect anyone</h3>\n<p class=\"mb-4\">Sexually transmitted infections have zero correlation with an individual's moral character. Any sexually active adult can contract an STI. Many infections remain completely asymptomatic for months. Routine screening and timely antibiotics or antiviral therapies ensure full recovery and prevent infertility.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 4: “Pain during intimacy is normal for women” — No, it requires diagnosis</h3>\n<p class=\"mb-4\">Pain during sexual intercourse is an indicator of an underlying physiological issue, such as pelvic infections, endometriosis, vaginal dryness, or pelvic floor tension. It should never be endured silently; professional medical evaluation is recommended.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 5: “Sex education misguides adolescents” — Scientific data proves it safeguards youth</h3>\n<p class=\"mb-4\">Global health research underscores that age-appropriate, scientific sex education equips adolescents with vital awareness of personal safety, safe boundaries, consent, reproductive hygiene, and protection against abuse and exploitation.</p>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">Frequently Asked Questions (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. Is discussing sexual wellness taboo?</p>\n<p class=\"text-gray-700 text-sm mt-1\">No. Comprehensive sexual wellness is recognized globally by the WHO as a fundamental pillar of human health.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. Are STIs curable?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Most bacterial and parasitic STIs are 100% curable with timely antibiotics, while viral STIs are safely manageable with modern antivirals.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. What does consent mean?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Consent is explicit, enthusiastic, sober, and revocable agreement between partners for any physical engagement.</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> sexual health, STI symptoms, consent meaning, periods late reasons, condom facts, sex education, reproductive health.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "Health Desk",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T11:00:00Z",
+    "readTime": "6 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "depression-awareness-symptoms-treatment-en",
+    "title": "Depression: A Treatable Medical Condition, Not a Personal Weakness",
+    "slug": "depression-symptoms-treatment-tele-manas-helpline-guide",
+    "excerpt": "Persistent sorrow, insomnia, and loss of interest are clinical symptoms of depression. Psychiatric experts stress that evidence-based treatments and helpline support are readily accessible.",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">📞 Call Tele-MANAS 14416: 24x7 Free Mental Health Support Across India</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>New Delhi:</strong> Depression is a clinical medical condition involving neurochemical imbalances and psychological factors. According to the World Health Organization, over 300 million individuals globally experience depressive disorders. Seeking therapy or psychiatric support is a sign of resilience, not weakness.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Recognizing Core Symptoms:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>Persistent low mood, despair, or emptiness lasting over two consecutive weeks.</li>\n<li>Anhedonia: total loss of interest or pleasure in previously enjoyed hobbies and activities.</li>\n<li>Severe sleep disruption—either chronic insomnia or hypersomnia.</li>\n<li>Unexplained appetite shifts accompanied by sudden weight loss or gain.</li>\n<li>Pervasive physical fatigue and debilitating lack of stamina.</li>\n<li>Cognitive impairment: difficulty concentrating, remembering details, or making simple decisions.</li>\n<li>Recurring thoughts of worthlessness, intense guilt, or suicidal ideation.</li>\n</ul>\n\n<div class=\"bg-indigo-50 border border-indigo-200 p-4 rounded-lg my-6\">\n<h4 class=\"font-bold text-indigo-900 mb-1\">National 24x7 Helplines:</h4>\n<ul class=\"text-sm text-indigo-800 space-y-1\">\n<li>• <strong>Tele-MANAS (Govt of India):</strong> 14416 (Toll-Free, Multilingual)</li>\n<li>• <strong>KIRAN Helpline:</strong> 1800-599-0019</li>\n<li>• <strong>AASRA Suicide Prevention:</strong> +91-9820466726</li>\n</ul>\n</div>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">Frequently Asked Questions (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. Is depression curable?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Yes. More than 80% of individuals respond positively to evidence-based psychotherapy, modern medical interventions, and holistic lifestyle adjustments.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. When should one seek professional psychiatric help?</p>\n<p class=\"text-gray-700 text-sm mt-1\">If symptoms impair everyday functionality for two weeks or longer, or if suicidal thoughts arise, professional care must be sought immediately.</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> depression in India, depression symptoms, mental health helpline, Tele-MANAS, anxiety treatment, suicide prevention, mental wellness.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "Mental Health Bureau",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T11:30:00Z",
+    "readTime": "5 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "cyber-fraud-otp-upi-safety-rules-en",
+    "title": "Cyber Fraud Defense: 5 Golden Rules to Protect from OTP & UPI Scams",
+    "slug": "cyber-fraud-otp-upi-safety-rules-1930-helpline-guide",
+    "excerpt": "UPI and OTP financial fraud syndicates are proliferating. Law enforcement advises immediate reporting on national helpline 1930 to maximize recovery prospects.",
+    "content": "<div class=\"article-lead-badge bg-red-50 text-red-700 border border-red-200 px-4 py-2 rounded-lg font-semibold mb-6\">🚨 Dial 1930 immediately or log on to cybercrime.gov.in within the 'Golden Hour'</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>Ranchi / New Delhi:</strong> As digital banking touches record adoption across Tier-2 and rural sectors, cyber syndicates are exploiting psychological manipulation and social engineering. Law enforcement agencies highlight that vigilance remains the first line of defense.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">5 Critical Cyber Safety Directives:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>Never click unsolicited APKs or payment links:</strong> Fake electricity bill notices and package delivery texts often install malicious spyware.</li>\n<li><strong>Beware urgent KYC/SIM suspension warnings:</strong> Legitimate financial institutions never demand immediate app installations over phone calls.</li>\n<li><strong>Never enter UPI PIN to receive money:</strong> Receiving funds requires zero authentication code entries. Entering a PIN always debits funds.</li>\n<li><strong>No bank representative will ever solicit OTP or CVV:</strong> Treat OTPs like personal bank vault keys.</li>\n<li><strong>Dial 1930 within the Golden Hour:</strong> Reporting transactions within 1-2 hours allows cyber units to freeze destination mule accounts.</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">Frequently Asked Questions (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. Where do I report online financial fraud?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Dial 1930 immediately or file a report at cybercrime.gov.in.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. Can lost money be refunded?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Prompt notification enables authorities to freeze funds in transit before withdrawal through fraudulent ATMs.</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> cyber fraud, UPI fraud, OTP scam, 1930 cyber helpline, online banking safety, sextortion, cyber crime complaint.</p>",
+    "categoryId": "c_crime",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "Cyber Security Desk",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T12:00:00Z",
+    "readTime": "5 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "free-ai-tools-students-business-productivity-en",
+    "title": "AI Tools Guide: 5 Free AI Utilities for Students and Businesses",
+    "slug": "free-ai-tools-students-business-productivity-guide",
+    "excerpt": "Modern AI tools accelerate research, writing, and design workflows. Explore top free platforms and crucial productivity strategies.",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">⚡ Accelerate workflow and supercharge personal productivity</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>Bengaluru / Ranchi:</strong> Artificial Intelligence has evolved into an indispensable assistant for academic research, business operations, and creative production. Mastering AI tools provides students and professionals with a substantial competitive edge.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Top 5 Free AI Tools:</h3>\n<ol class=\"list-decimal pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>ChatGPT / Google Gemini / Claude:</strong> Superb assistants for conceptual clarification, structured summaries, and code generation.</li>\n<li><strong>Canva Magic Studio:</strong> AI-augmented graphic creation for presentation decks, banners, and digital marketing creatives.</li>\n<li><strong>Grammarly & QuillBot:</strong> Precision grammar verification, syntactic elegance, and professional correspondence drafting.</li>\n<li><strong>Notion AI:</strong> Automated meeting transcripts, structured study notes, and task orchestration.</li>\n<li><strong>Copy.ai:</strong> Rapid marketing copy, product descriptions, and social media hooks.</li>\n</ol>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">Frequently Asked Questions (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. Are these AI tools truly free?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Yes. Their generous free tiers adequately serve individual academic and operational business needs.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. Will AI displace upcoming careers?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Repetitive tasks are automating, but proficiency with AI tooling unlocks elevated creative and analytical demand.</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> free AI tools, ChatGPT guide, AI for students, AI for business, Canva AI, Notion AI, future skills.</p>",
+    "categoryId": "c5",
+    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "Technology Desk",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T12:30:00Z",
+    "readTime": "5 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "sarkari-scholarship-form-mistakes-nsp-en",
+    "title": "Scholarship Advisory: 5 Critical Application Errors to Avoid on NSP Portal",
+    "slug": "sarkari-scholarship-form-mistakes-nsp-portal-guide",
+    "excerpt": "Every year thousands of student scholarship applications get rejected over rectifiable documentation discrepancies. Check essential prerequisites before the deadline.",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">🎓 Verify Eligibility, Documentation & Strict Deadlines</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>New Delhi / Ranchi:</strong> Central and state scholarship schemes (NSP, e-Kalyan, Post-Matric) distribute vital financial assistance to scholars across India. However, approximately 25% of submitted forms face avoidable rejections due to procedural oversights.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">5 Critical Application Pitfalls:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>Mismatched Personal Details:</strong> Differences in name spelling or date of birth between Aadhaar and matriculation records cause automated portal failure.</li>\n<li><strong>Missing NPCI / Aadhaar Bank Seeding:</strong> DBT transfers fail when the designated bank account is not mapped to the NPCI national clearing mapper.</li>\n<li><strong>Expired Income Certificates:</strong> Outdated revenue certificates lead to instantaneous rejection.</li>\n<li><strong>Last-minute submission panics:</strong> Portal server traffic spikes frequently impede document uploads on deadline day.</li>\n<li><strong>Failure to secure Institutional Verification:</strong> Physical or digital approval by designated college nodal officers is statutory.</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">Frequently Asked Questions (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. What is the verified National Scholarship website?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Always submit through the official National Scholarship Portal at scholarships.gov.in.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. Can scholarships be credited into joint accounts?</p>\n<p class=\"text-gray-700 text-sm mt-1\">No. Direct Benefit Transfer requires an active single savings account in the student's individual name.</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> scholarship form, National Scholarship Portal, govt scholarship, scholarship documents, scholarship mistakes, Post-Matric Scholarship.</p>",
+    "categoryId": "c10",
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "Education Bureau",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T13:00:00Z",
+    "readTime": "5 min",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "garhwa-palamu-education-employment-opportunities-en",
+    "title": "Jharkhand Regional: Emerging Skill and Employment Horizons in Garhwa-Palamu",
+    "slug": "garhwa-palamu-education-employment-skill-india-guide",
+    "excerpt": "Garhwa and Palamu districts witness expanding vocational opportunities, PMKVY skill centers, and agro-business ventures for youth empowerment.",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">📍 Local Youth Empowerment & Palamu Division Growth Model</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>Garhwa / Daltonganj:</strong> Palamu division is experiencing marked developmental transformation across technical training, localized agro-processing, and youth entrepreneurship. Expanded regional highways and digital infrastructure are unlocking sustainable local livelihoods.</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Expanding Regional Opportunities:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>Technical ITI & Polytechnic Centers:</strong> Hands-on technical programs prepare certified specialists for regional industrial and infrastructure projects.</li>\n<li><strong>Paramedical & Healthcare Institutions:</strong> Nursing and lab technician programs meet mounting clinical needs in Garhwa and Medininagar hospitals.</li>\n<li><strong>Agri-Business & Food Processing:</strong> Modern drip irrigation, polyhouse farming, and mustard oil extraction receive substantial state subsidies under CMEGP.</li>\n<li><strong>Digital Freelancing Hubs:</strong> High-speed optical fiber connectivity enables educated youths to engage in remote digital design and content operations.</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">Frequently Asked Questions (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. How to access business subsidies in Garhwa-Palamu?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Apply via District Industries Centre (DIC) for the Chief Minister Employment Generation Scheme (CMEGP) offering up to 40% capital subsidy.</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. Where is free skill training conducted?</p>\n<p class=\"text-gray-700 text-sm mt-1\">Government ITIs, RSETI centers, and certified PMKVY skill complexes provide completely free certifications.</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Garhwa news, Palamu news, Jharkhand jobs, skill India, PMKVY, local employment, Jharkhand education.</p>",
+    "categoryId": "c_garhwa",
+    "imageUrl": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "Garhwa Bureau Chief",
+      "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T13:30:00Z",
+    "readTime": "6 min",
+    "featured": true,
+    "trending": true
+  },
+  {
     "id": "crime_sextortion_en",
     "title": "Cyber Sextortion News: Police Issue High-Alert Advisory as Video Call Blackmail Gangs Busted Across States",
     "slug": "cyber-sextortion-news-police-advisory-video-call-blackmail-gangs-busted",
@@ -2059,6 +2518,465 @@ export const articles_en: Article[] = [
 ];
 
 export const articles_hi: Article[] = [
+  {
+    "id": "consent-meaning-rights-awareness-hi",
+    "title": "Consent क्या है? हर रिश्ते में क्यों जरूरी है",
+    "slug": "consent-meaning-sexual-consent-women-safety-hindi",
+    "excerpt": "Consent यानी सहमति। किसी भी शारीरिक संबंध या छूने से पहले दोनों पक्षों की स्वेच्छा से अनुमति जरूरी है। कानून भी बिना सहमति के किए गए कार्य को अपराध मानता है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🛡️ बिना सहमति किया गया कोई भी शारीरिक कार्य कानूनी रूप से अपराध है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> सहमति (Consent) किसी भी स्वस्थ और सम्मानजनक मानवीय रिश्ते की पहली और सबसे अनिवार्य शर्त है। कानून और नैतिकता दोनों ही इस बात पर स्पष्ट हैं कि बिना सहमति के किया गया कोई भी शारीरिक या यौन व्यवहार अपराध की श्रेणी में आता है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Consent का वास्तविक मतलब क्या है?</h3>\n<p class=\"mb-4\">Consent का मतलब सिर्फ “ना न कहना” नहीं है। इसका अर्थ है — <strong>स्वेच्छा से, बिना किसी भय, दबाव, धमकी, नशे या धोखे के और पूरी जानकारी के साथ दी गई स्पष्ट अनुमति</strong>। यदि कोई व्यक्ति डर या लाचारी में 'हाँ' कहता है, तो वह सहमति नहीं मानी जाती। शादी के बाद भी पार्टनर की सहमति आवश्यक है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Consent के 4 मुख्य प्रकार:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>Verbal Consent (मौखिक सहमति):</strong> स्पष्ट, सहज और खुले शब्दों में 'हाँ' कहना।</li>\n<li><strong>Informed Consent (सूचित सहमति):</strong> पूरी जानकारी और परिणामों को समझकर दी गई सहमति।</li>\n<li><strong>Ongoing Consent (सतत सहमति):</strong> हर चरण में सहमति का होना; बीच में किसी भी समय सहमति वापस ली जा सकती है।</li>\n<li><strong>Freely Given (स्वतंत्र सहमति):</strong> बिना किसी नशे, आर्थिक दबाव या नौकरी/परीक्षा के दबाव के।</li>\n</ul>\n\n<div class=\"bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg my-6\">\n<h4 class=\"font-bold text-red-900 mb-1\">मदद और हेल्पलाइन नंबर:</h4>\n<p class=\"text-red-800 text-sm\">यदि किसी के साथ सहमति के बिना दुर्व्यवहार हुआ है, तो चुप न रहें। राष्ट्रीय आपातकालीन नंबर <strong>112</strong>, महिला हेल्पलाइन <strong>181</strong>, चाइल्डलाइन <strong>1098</strong> या जिला विधिक सेवा प्राधिकरण (DLSA) से मुफ्त कानूनी सहायता लें।</p>\n</div>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. Consent क्या है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">अपनी पूर्ण इच्छा और होश में बिना किसी दबाव के दी गई स्पष्ट अनुमति।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या सहमति को बीच में वापस लिया जा सकता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, संबंध के किसी भी क्षण यदि साथी असहज महसूस करे, तो वह मना कर सकता है और तुरंत रुकना अनिवार्य है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. क्या नशे की हालत में दी गई सहमति वैध है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">बिल्कुल नहीं! शराब या ड्रग्स के प्रभाव में व्यक्ति निर्णय लेने की स्थिति में नहीं होता, अतः कानूनन इसे सहमति नहीं माना जाता।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> consent meaning in Hindi, सहमति क्या है, sexual consent, women safety, 181 helpline, legal rights.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "लीगल अवेयरनेस डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "sextortion-cyber-blackmail-safety-guide-hi",
+    "title": "Sextortion: अश्लील वीडियो/फोटो से ब्लैकमेल हो तो क्या करें",
+    "slug": "sextortion-cyber-blackmail-safety-guide-1930-hindi",
+    "excerpt": "Sextortion यानी निजी फोटो या वीडियो के जरिए ब्लैकमेल। साइबर ठग वीडियो कॉल रिकॉर्ड करके पैसे मांगते हैं। पुलिस कहती है कि शिकायत में देरी न करें। शर्माने की नहीं, सतर्क रहने की जरूरत है।",
+    "content": "<div class=\"article-lead-badge bg-red-50 text-red-700 border border-red-200 px-4 py-2 rounded-lg font-semibold mb-6\">🚨 घबराएं नहीं, 1930 पर तुरंत शिकायत करें और कोई पैसा ट्रांसफर न करें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>रांची / नई दिल्ली:</strong> सेक्सटॉर्शन एक गंभीर साइबर अपराध है जिसमें अपराधी सोशल मीडिया, डेटिंग ऐप्स या व्हाट्सएप वीडियो कॉल के जरिए पीड़ित की आपत्तिजनक रिकॉर्डिंग बना लेते हैं और फिर उसे परिजनों में वायरल करने की धमकी देकर लाखों की उगाही करते हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">अगर ब्लैकमेलिंग हो रही है तो तुरंत करें ये 5 काम:</h3>\n<ol class=\"list-decimal pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>एक भी रुपया न दें:</strong> पैसे देने से ब्लैकमेलर की मांग खत्म नहीं होती बल्कि और बढ़ती है।</li>\n<li><strong>सारे साक्ष्य (Evidence) सुरक्षित करें:</strong> चैट के स्क्रीनशॉट, वीडियो कॉल का समय, फोन नंबर और पेमेंट यूपीआई आईडी सेव रखें।</li>\n<li><strong>तुरंत 1930 पर कॉल करें:</strong> गृह मंत्रालय के साइबर सेल को सूचित करें और cybercrime.gov.in पर शिकायत दर्ज कराएं।</li>\n<li><strong>सोशल मीडिया अकाउंट प्राइवेट करें:</strong> अपराधी को ब्लॉक करें और अपनी फ्रेंड लिस्ट को सीमित करें।</li>\n<li><strong>मानसिक रूप से मजबूत रहें:</strong> याद रखें आप पीड़ित हैं, अपराधी नहीं। हेल्पलाइन 14416 (Tele-MANAS) पर मुफ्त काउंसलिंग लें।</li>\n</ol>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या पुलिस मेरी पहचान गुप्त रखेगी?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, साइबर अपराध नियमावली के तहत पीड़ित की पहचान पूरी तरह गोपनीय रखी जाती है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या ब्लैकमेलर्स को पैसे देने से मामला सुलझता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">कभी नहीं! पैसा देने के बाद वे बार-बार और बड़ी रकम की मांग करते हैं।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> sextortion, cyber blackmail, 1930 cyber helpline, online safety, revenge porn, cyber crime complaint.</p>",
+    "categoryId": "c_crime",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "साइबर सेल ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:15:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "periods-late-7-reasons-doctor-guide-hi",
+    "title": "Periods Late होने के 7 कारण, कब Doctor के पास जाएं",
+    "slug": "periods-late-7-reasons-doctor-guidance-hindi",
+    "excerpt": "Periods का देर से आना आम है, लेकिन लगातार ऐसा होना किसी स्वास्थ्य समस्या का संकेत हो सकता है। Stress, PCOS, thyroid, वजन और हार्मोन बदलाव प्रमुख कारण हैं।",
+    "content": "<div class=\"article-lead-badge bg-pink-50 text-pink-700 border border-pink-200 px-4 py-2 rounded-lg font-semibold mb-6\">🩺 हर बार प्रेगनेंसी नहीं होती वजह — जानिए शरीर के 7 अंदरूनी कारण</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> सामान्य मासिक धर्म चक्र 21 से 35 दिनों का होता है। यदि पीरियड्स में एक हफ्ते से अधिक की देरी हो, तो घबराने के बजाय उसके वास्तविक चिकित्सीय कारणों को समझना जरूरी है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">पीरियड्स में देरी के 7 प्रमुख वैज्ञानिक कारण:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>1. अत्यधिक मानसिक तनाव (Stress):</strong> तनाव से कोर्टिसोल हार्मोन बढ़ता है जो ओव्यूलेशन चक्र को बाधित करता है।</li>\n<li><strong>2. PCOS / PCOD:</strong> अंडाशय में छोटे सिस्ट और मेल हार्मोन (एंड्रोजन) बढ़ने से पीरियड्स महीनों रुक जाते हैं।</li>\n<li><strong>3. थायरॉइड असंतुलन (Thyroid):</strong> हाइपोथायरॉइडिज्म या हाइपरथायरॉइडिज्म दोनों ही मेटाबॉलिज्म और पीरियड्स को प्रभावित करते हैं।</li>\n<li><strong>4. वजन में तेजी से उतार-चढ़ाव:</strong> बहुत कम बीएमआई या अचानक मोटापा बढ़ने से एस्ट्रोजन हार्मोन असंतुलित हो जाता है।</li>\n<li><strong>5. आपातकालीन गर्भनिरोधक गोलियां (i-Pill / Morning After):</strong> इनका अनावश्यक सेवन शरीर के प्राकृतिक हार्मोन चक्र को 2-3 महीने तक बिगाड़ देता है।</li>\n<li><strong>6. खून की कमी (Severe Anemia):</strong> हीमोग्लोबिन 9 से कम होने पर शरीर रक्षा तंत्र के तहत रक्तस्राव को रोक देता है।</li>\n<li><strong>7. पेरिमेनोपॉज (Perimenopause):</strong> 40 से 45 वर्ष की आयु के बाद प्राकृतिक हार्मोनल बदलाव।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. पीरियड्स कितने दिन लेट होने पर डॉक्टर से मिलना चाहिए?</p>\n<p class=\"text-gray-700 text-sm mt-1\">यदि देरी 35 दिनों से अधिक हो या लगातार 2 महीने पीरियड्स न आएं तो तुरंत गायनेकोलॉजिस्ट से जांच कराएं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या घरेलू नुस्खे आजमाने चाहिए?</p>\n<p class=\"text-gray-700 text-sm mt-1\">बिना अल्ट्रासाउंड और डॉक्टर की जांच के कोई भी काढ़ा या गर्म दवा न लें, इससे ब्लीडिंग विकार हो सकता है।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> periods late reasons, PCOS, thyroid, irregular periods, महिला स्वास्थ्य, periods in Hindi.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "स्त्री रोग विशेषज्ञ डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:30:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "pcos-pcod-symptoms-diet-treatment-hi",
+    "title": "PCOS/PCOD: लक्षण, Diet, Exercise और Treatment",
+    "slug": "pcos-pcod-symptoms-diet-exercise-treatment-hindi",
+    "excerpt": "PCOS/PCOD आज युवतियों में तेजी से बढ़ रहा है। अनियमित Periods, वजन बढ़ना, मुंहासे और बाल झड़ना इसके लक्षण हैं। सही diet, exercise और डॉक्टर की सलाह से इसे नियंत्रित किया जा सकता है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">🌿 समय पर पहचान और लाइफस्टाइल बदलाव से PCOS पूरी तरह नियंत्रित संभव</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> भारत में हर पांच में से एक महिला पॉलीसिस्टिक ओवरी सिंड्रोम (PCOS/PCOD) की समस्या से जूझ रही है। यह केवल प्रजनन स्वास्थ्य की समस्या नहीं है बल्कि एक एंडोक्राइन और मेटाबॉलिक विकार है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">PCOS के लिए संपूर्ण डाइट चार्ट:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>क्या खाएं:</strong> हरी पत्तेदार सब्जियां, साबुत दालें, ओट्स, चिया सीड्स, अखरोट, दही और उच्च फाइबर युक्त फल।</li>\n<li><strong>क्या न खाएं:</strong> मैदा, चीनी, रिफाइंड तेल, पैकेज्ड जंक फूड, कोल्ड ड्रिंक्स और बहुत ज्यादा डेयरी उत्पाद।</li>\n<li><strong>व्यायाम:</strong> रोजाना 40 मिनट ब्रिस्क वॉक, सूर्य नमस्कार या स्ट्रेंथ ट्रेनिंग करने से इंसुलिन संवेदनशीलता सुधरती है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या PCOS में गर्भधारण संभव है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ! वजन 5-10% कम करने और उचित चिकित्सकीय उपचार से महिलाएं सामान्य रूप से माँ बन सकती हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. PCOS और PCOD में क्या अंतर है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">PCOD एक सामान्य ओवेरियन डिसऑर्डर है जिसे डाइट से आसानी से ठीक किया जा सकता है, जबकि PCOS एक गहरा हार्मोनल व मेटाबॉलिक सिंड्रोम है।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> PCOS, PCOD, irregular periods, PCOS diet, PCOS treatment, महिला हार्मोन, infertility.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "वेलनेस डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T14:45:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "breakup-depression-recovery-steps-hi",
+    "title": "Breakup के बाद Depression: 7 Practical Steps",
+    "slug": "breakup-depression-healing-recovery-steps-hindi",
+    "excerpt": "Breakup के बाद उदासी, नींद न आना और खाना छूटना आम है। लेकिन अगर यह लंबे समय तक रहे तो depression हो सकता है। काउंसलिंग और सपोर्ट से उबरा जा सकता है।",
+    "content": "<div class=\"article-lead-badge bg-indigo-50 text-indigo-700 border border-indigo-200 px-4 py-2 rounded-lg font-semibold mb-6\">💔 अकेले मत सहें — हीलिंग एक यात्रा है, खुद को समय दें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>मुंबई / दिल्ली:</strong> ब्रेकअप सिर्फ एक रिश्ते का टूटना नहीं होता, बल्कि यह एक गहरा मानसिक और भावनात्मक आघात (Emotional Trauma) है। मनोवैज्ञानिकों के अनुसार ब्रेकअप के बाद दिमाग ठीक उसी तरह का दर्द महसूस करता है जैसे किसी शारीरिक चोट में।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">ब्रेकअप डिप्रेशन से बाहर निकलने के 7 कदम:</h3>\n<ol class=\"list-decimal pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>भावनाओं को स्वीकार करें:</strong> रोना कोई कमजोरी नहीं है, अपने दर्द को दबाने के बजाय महसूस करें।</li>\n<li><strong>नो-कांटेक्ट रूल (No-Contact Rule):</strong> पूर्व साथी के सोशल मीडिया प्रोफाइल को चेक करना और पुरानी चैट पढ़ना तुरंत बंद करें।</li>\n<li><strong>दैनिक दिनचर्या बनाएं:</strong> समय पर 8 घंटे सोना, पौष्टिक भोजन और 30 मिनट वर्कआउट दिमाग में सेरोटोनिन बढ़ाता है।</li>\n<li><strong>सपोर्ट सिस्टम से जुड़ें:</strong> सच्चे दोस्तों और परिवार से अपनी बात साझा करें, खुद को बंद कमरे में न रखें।</li>\n<li><strong>नशे से सख्त दूरी:</strong> शराब या ड्रग्स दर्द को खत्म नहीं करते, बल्कि डिप्रेशन को 10 गुना गहरा कर देते हैं।</li>\n<li><strong>नया कौशल या शौक शुरू करें:</strong> संगीत, किताबें, नई भाषा या जिम में अपनी ऊर्जा लगाएं।</li>\n<li><strong>काउंसलर की मदद लें:</strong> Tele-MANAS (14416) या iCall (9152987821) पर अनुभवी मनोवैज्ञानिकों से बात करें।</li>\n</ol>\n\n<hr class=\"my-8 border-gray-200\" />\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या ब्रेकअप के बाद डिप्रेशन सामान्य है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">शुरुआती दिनों में उदासी स्वाभाविक है, लेकिन यदि 2-3 हफ़्तों बाद भी जीवन जीने की इच्छा खत्म हो जाए तो यह क्लीनिकल डिप्रेशन का संकेत है।</p>\n</div>\n</div>\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> breakup depression, दिल टूटना, mental health, Tele-MANAS, counselling, heartbreak recovery.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "रिलेशनशिप काउंसलर",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "exam-pressure-failure-students-mental-health-hi",
+    "title": "Exam Pressure और Failure: Students के लिए Mental Health Guide",
+    "slug": "exam-pressure-failure-students-mental-health-guide-hindi",
+    "excerpt": "Exam का तनाव, failure का डर और माता-पिता की उम्मीदें students को मानसिक रूप से तोड़ सकती हैं। विशेषज्ञ कहते हैं कि खुलकर बात करें और मदद लें। मार्क्स से ज्यादा जिंदगी कीमती है।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">📘 एक परीक्षा का रिजल्ट पूरी जिंदगी का फैसला नहीं कर सकता — जीवन अनमोल है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>कोटा / नई दिल्ली:</strong> बोर्ड परीक्षाओं, नीट (NEET) और जेईई (JEE) की तैयारी कर रहे लाखों छात्रों में असफलता का डर एक भयावह रूप लेता जा रहा है। मनोचिकित्सकों का कहना है कि असफलता जीवन का अंत नहीं बल्कि सीखने का एक पड़ाव है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">माता-पिता और छात्रों के लिए जरूरी संदेश:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>मार्क्स से बच्चे का मूल्यांकन न करें:</strong> हर बच्चे की योग्यता अलग होती है। रिश्तेदारों के बच्चों से तुलना करना बच्चे को डिप्रेशन में धकेलता है।</li>\n<li><strong>नींद से समझौता न करें:</strong> लगातार रातभर जागने से एकाग्रता घटती है। कम से कम 7 घंटे की नींद जरूरी है।</li>\n<li><strong>प्लान बी (Plan B) हमेशा रखें:</strong> दुनिया में सैकड़ों ऐसे करियर विकल्प हैं जहाँ बिना किसी इंजीनियरिंग या मेडिकल डिग्री के युवा करोड़ों कमा रहे हैं।</li>\n<li><strong>चाइल्डलाइन और मानसिक हेल्पलाइन:</strong> 1098, 14416 या 1800-599-0019 पर चौबीसों घंटे छात्रों के लिए मुफ्त मनोवैज्ञानिक सहायता उपलब्ध है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> exam pressure, student mental health, failure motivation, Tele-MANAS, suicide prevention, Kota students.</p>",
+    "categoryId": "c10",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "एजुकेशन एक्सपर्ट",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:15:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "job-tension-layoff-depression-guide-hi",
+    "title": "Job Tension और Layoff: Depression से कैसे बचें",
+    "slug": "job-tension-layoff-depression-mental-health-guide-hindi",
+    "excerpt": "नौकरी का तनाव, लेऑफ का डर और आर्थिक दबाव युवाओं में डिप्रेशन और एंग्जाइटी बढ़ा रहे हैं। विशेषज्ञ कहते हैं कि खुलकर बात करें, स्किल बढ़ाएं और मदद लें।",
+    "content": "<div class=\"article-lead-badge bg-amber-50 text-amber-800 border border-amber-200 px-4 py-2 rounded-lg font-semibold mb-6\">💼 नौकरी जिंदगी का एक हिस्सा है, पूरी जिंदगी नहीं — हौसला रखें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>बेंगलुरु / गुरुग्राम:</strong> कॉर्पोरेट जगत में रीस्ट्रक्चरिंग और लेऑफ की खबरों के बीच लाखों कर्मचारी गंभीर बर्नआउट और करियर एंग्जाइटी का सामना कर रहे हैं। इस दौर में मानसिक संतुलन बनाए रखना सबसे बड़ी प्राथमिकता होनी चाहिए।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">करियर संकट से निपटने की कार्ययोजना:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>इमरजेंसी फंड बनाएं:</strong> कम से कम 4-6 महीने का खर्च लिक्विड फंड में रखें ताकि तनाव कम रहे।</li>\n<li><strong>अपस्किलिंग (Upskilling):</strong> एआई टूल्स, डेटा मैनेजमेंट और क्लाउड टेक्नोलॉजीज में नए सर्टिफिकेशन लें।</li>\n<li><strong>नेटवर्किंग एक्टिव रखें:</strong> लिंक्डइन पर सक्रिय रहें और पूर्व सहकर्मियों से संपर्क बनाए रखें।</li>\n<li><strong>Tele-MANAS 14416:</strong> वित्तीय और नौकरी के तनाव में मानसिक स्वास्थ्य विशेषज्ञों से निशुल्क परामर्श लें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> job tension, layoff depression, mental health at work, Tele-MANAS, career stress, unemployment.</p>",
+    "categoryId": "c4",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "करियर व कॉर्पोरेट डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:30:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "postpartum-depression-new-mothers-symptoms-treatment-hi",
+    "title": "Postpartum Depression: नई मांओं की चुप्पी, जानें लक्षण और इलाज",
+    "slug": "postpartum-depression-new-mothers-symptoms-treatment-hindi",
+    "excerpt": "बच्चे के जन्म के बाद कई महिलाओं को उदासी, थकान और घबराहट होती है। इसे Postpartum Depression कहते हैं। समय पर पहचान और इलाज से मां और बच्चा दोनों सुरक्षित रह सकते हैं।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🤱 यह कोई कमजोरी या बुरी माँ होने का लक्षण नहीं, एक चिकित्सकीय बीमारी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> प्रसव के बाद 15% से अधिक नई माताएं पोस्टपार्टम डिप्रेशन (PPD) का शिकार होती हैं। समाज इसे सामान्य थकान या मूड स्विंग समझकर नजरअंदाज कर देता है, जिससे स्थिति गंभीर हो जाती है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">PPD के मुख्य लक्षण और परिवार का सहयोग:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>बच्चे के साथ भावनात्मक जुड़ाव महसूस न होना या अत्यधिक अपराधबोध होना।</li>\n<li>हर समय रोने का मन करना और अत्यधिक घबराहट होना।</li>\n<li>पति और परिवार का दायित्व: माँ को अकेला न छोड़ें, बच्चे की देखभाल में हाथ बंटाएं और डॉक्टर से परामर्श कराएं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> postpartum depression, प्रसव के बाद डिप्रेशन, नई मां मानसिक स्वास्थ्य, maternal mental health, Tele-MANAS.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "मातृ एवं शिशु स्वास्थ्य डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T15:45:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "mens-mental-health-male-depression-awareness-hi",
+    "title": "Men’s Mental Health: पुरुषों की चुप्पी क्यों खतरनाक है",
+    "slug": "mens-mental-health-male-depression-awareness-hindi",
+    "excerpt": "पुरुष भी डिप्रेशन, एंग्जाइटी और तनाव से जूझते हैं, लेकिन समाज के डर से बात नहीं करते। इससे आत्महत्या और नशे के मामले बढ़ते हैं। विशेषज्ञ कहते हैं कि खुलकर बात करना जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">👤 'मर्द को दर्द नहीं होता' जैसी रूढ़िवादिता तोड़ें — रोना इंसान होने की निशानी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> भारत में पुरुषों में आत्महत्या की दर महिलाओं की तुलना में लगभग ढाई गुना अधिक है। इसका सबसे बड़ा कारण सामाजिक दबाव के चलते पुरुषों द्वारा अपनी मानसिक परेशानियों को दबाए रखना है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">पुरुषों में डिप्रेशन के छिपे हुए संकेत:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>अचानक गुस्सा और चिड़चिड़ापन बढ़ जाना।</li>\n<li>शराब, सिगरेट या अन्य नशों की मात्रा तेजी से बढ़ा देना।</li>\n<li>अत्यधिक वर्कहॉलिक हो जाना ताकि समस्याओं से ध्यान भटकाया जा सके।</li>\n<li>हेल्पलाइन 14416 पर पूरी तरह गुप्त और निशुल्क सहायता प्राप्त करें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> men’s mental health, पुरुष डिप्रेशन, male depression, suicide prevention, Tele-MANAS, toxic masculinity.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "पुरुष स्वास्थ्य डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "mobile-addiction-digital-detox-guide-hi",
+    "title": "Mobile Addiction: स्मार्टफोन की लत कैसे छोड़ें",
+    "slug": "mobile-addiction-digital-detox-screen-time-guide-hindi",
+    "excerpt": "स्मार्टफोन की लत बच्चों से लेकर बड़ों तक को प्रभावित कर रही है। इससे नींद, पढ़ाई, काम और रिश्ते खराब हो रहे हैं। विशेषज्ञ कहते हैं कि डिजिटल डिटॉक्स और नियम बनाना जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">📱 डिजिटल डिटॉक्स अपनाएं — स्क्रीन की कैद से निकलकर असली जिंदगी जिएं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>बेंगलुरु:</strong> औसत भारतीय युवा दिनभर में 6 से 7 घंटे फोन स्क्रीन पर बिता रहा है। यह डोपामाइन लूप मानसिक एकाग्रता को खत्म कर रहा है और अनिद्रा व डिप्रेशन को बढ़ावा दे रहा है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">स्क्रीन टाइम घटाने के 5 प्रभावी तरीके:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>सोने से 1 घंटे पहले फोन को बेडरूम से बाहर चार्जिंग पर लगाएं।</li>\n<li>सभी गैर-जरूरी सोशल मीडिया नोटिफिकेशन्स को हमेशा के लिए ऑफ रखें।</li>\n<li>हफ्ते में एक दिन 'डिजिटल उपवास' (Digital Detox Day) रखें।</li>\n<li>बच्चों को 5 साल तक स्मार्टफोन बिल्कुल न दें, उन्हें खेलकूद में लगाएं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> mobile addiction, digital detox, screen time, smartphone addiction, बच्चों में मोबाइल, mental health.</p>",
+    "categoryId": "c5",
+    "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "डिजिटल वेलनेस डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:15:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "therapy-guide-cost-online-tele-manas-hi",
+    "title": "Therapy कैसे शुरू करें? Cost, Online Therapy, Tele-MANAS",
+    "slug": "how-to-start-therapy-cost-online-tele-manas-hindi",
+    "excerpt": "मानसिक स्वास्थ्य समस्या हो तो थेरेपी लेना जरूरी है। कई लोगों को पता नहीं होता कि थेरेपी कहां, कैसे और कितने पैसे में मिलती है। सरकारी और ऑनलाइन विकल्प उपलब्ध हैं।",
+    "content": "<div class=\"article-lead-badge bg-purple-50 text-purple-700 border border-purple-200 px-4 py-2 rounded-lg font-semibold mb-6\">💡 मानसिक स्वास्थ्य के लिए थेरेपिस्ट से मिलना समझदारी और बहादुरी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> जब दिल या दांत में दर्द होता है तो हम डॉक्टर के पास जाते हैं, ठीक उसी तरह जब मन और भावनाओं में पीड़ा हो तो मनोवैज्ञानिक (Psychologist) से मिलना चाहिए।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">थेरेपी के सस्ते और सुलभ विकल्प:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>सरकारी अस्पताल:</strong> जिला अस्पतालों और एम्स (AIIMS) में मात्र 10-20 रुपये के पर्चे पर विशेषज्ञ मनोचिकित्सक मिलते हैं।</li>\n<li><strong>Tele-MANAS:</strong> 14416 टोल-फ्री नंबर पर कॉल कर घर बैठे क्लिनिकल साइकोलॉजिस्ट से बात करें।</li>\n<li><strong>ऑनलाइन ऐप्स:</strong> Amaha, Practo या MindClan पर 500 से 1500 रुपये प्रति सेशन में ऑनलाइन थेरेपी उपलब्ध है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> therapy kaise shuru kare, online therapy, Tele-MANAS, mental health counselling, iCall, depression treatment.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "साइकोलॉजी डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:30:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "workplace-burnout-job-stress-balance-hi",
+    "title": "Workplace Burnout: नौकरी में थकान और तनाव से कैसे बचें",
+    "slug": "workplace-burnout-job-stress-work-life-balance-hindi",
+    "excerpt": "लगातार काम का बोझ, ओवरटाइम और तनाव से वर्कप्लेस बर्नआउट होता है। इससे थकान, चिड़चिड़ापन और डिप्रेशन बढ़ता है। विशेषज्ञ कहते हैं कि ब्रेक, बाउंड्री और मदद जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-amber-50 text-amber-800 border border-amber-200 px-4 py-2 rounded-lg font-semibold mb-6\">⚙️ बर्नआउट को नजरअंदाज न करें — मानसिक स्वास्थ्य से बढ़कर कोई काम नहीं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>गुरुग्राम / पुणे:</strong> विश्व स्वास्थ्य संगठन (WHO) द्वारा बर्नआउट को एक आधिकारिक सिंड्रोम घोषित किया गया है। लगातार 10-12 घंटे काम और छुट्टियों में भी ऑफिशियल ईमेल चेक करने की आदत शरीर और मन को निचोड़ देती है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">वर्कप्लेस बाउंड्री तय करने के नियम:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>ऑफिस समय खत्म होने के बाद वर्क चैट और लैपटॉप बंद करें।</li>\n<li>हर 90 मिनट के काम के बाद 5 मिनट का वॉक ब्रेक लें।</li>\n<li>कंपनी एचआर और मैनेजर से काम के अत्यधिक दबाव पर खुलकर बातचीत करें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> workplace burnout, job stress, काम का तनाव, mental health at work, Tele-MANAS, work-life balance.</p>",
+    "categoryId": "c4",
+    "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "एचआर व करियर टीम",
+      "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T16:45:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "first-night-fear-condom-safe-sex-story-hi",
+    "title": "“पहली रात का डर” — Condom कैसे पहनें? एक नई शादी की कहानी",
+    "slug": "pehli-raat-ka-dar-condom-safe-sex-awareness-story-hindi",
+    "excerpt": "नई शादी के बाद कई जोड़े Contraception को लेकर उलझन में रहते हैं। सही जानकारी न होने से डर, झिझक और अनचाही Pregnancy जैसी समस्याएं होती हैं। एक कहानी के जरिए समझें कि Condom का सही इस्तेमाल कैसे करें।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">📖 रियल लाइफ अवेयरनेस स्टोरी: शर्म नहीं, सीखना और समझना जरूरी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">रिया और आरव की शादी को दो महीने हुए थे। दोनों शिक्षित और सभ्य, लेकिन अंतरंगता और सुरक्षा को लेकर दोनों के मन में एक गहरा संकोच था। स्कूल और कॉलेज में कभी वैज्ञानिक यौन शिक्षा नहीं मिली थी और इंटरनेट पर भ्रामक सामग्रियां थीं।</p>\n\n<p class=\"mb-4\">जब दोनों ने संकोच त्यागकर सरकारी अस्पताल के परिवार नियोजन विभाग में डॉ. मीना से सलाह ली, तो डॉक्टर ने उन्हें समझाया: “कंडोम केवल अनचाहे गर्भ से ही नहीं बचाता, बल्कि एचआईवी और गंभीर यौन संक्रमणों से भी 98% सुरक्षा देता है।”</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">डॉक्टर द्वारा बताए गए 5 स्वर्णिम नियम:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>पैकेट की एक्सपायरी डेट अवश्य देखें। कभी भी पैकेट को दांत या कैंची से न फाड़ें।</li>\n<li>कंडोम के ऊपरी हिस्से (टिप) को हल्के से दबाकर हवा निकाल दें ताकि वह संबंध के दौरान फटे नहीं।</li>\n<li>संबंध समाप्त होने के तुरंत बाद इसे सावधानी से उतारें और टिश्यू पेपर में लपेटकर डस्टबिन में डालें।</li>\n<li>यदि कंडोम फट जाए, तो 72 घंटे के अंदर इमरजेंसी पिल (Emergency Contraceptive) लें और डॉक्टर से मिलें।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> condom kaise pehne, condom use in Hindi, safe sex, contraception, emergency pill, STI prevention.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "फैमिली वेलफेयर डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:00:00Z",
+    "readTime": "6 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "unspoken-pain-women-sexual-health-story-hi",
+    "title": "“दर्द जो कोई नहीं समझता” — महिलाओं में सेक्सुअल समस्याएं",
+    "slug": "unspoken-pain-women-sexual-health-dyspareunia-story-hindi",
+    "excerpt": "कई महिलाएं सेक्स के दौरान दर्द, इच्छा में कमी या अन्य समस्याओं को चुपचाप सहती हैं। समाज के डर से वे डॉक्टर के पास नहीं जातीं। विशेषज्ञ कहते हैं कि हर समस्या का इलाज संभव है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🌸 दर्द सहना कमजोरी या कर्तव्य नहीं है — स्त्री रोग विशेषज्ञ से तुरंत जांच कराएं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">स्नेहा की शादी को तीन साल हो चुके थे, लेकिन अंतरंग पलों में होने वाला तेज दर्द उसकी जिंदगी को नर्क बना रहा था। पति को लगा कि यह सिर्फ उसका वहम है। जब उसने एक महिला डॉक्टर से जांच कराई, तो पता चला कि वह एंडोमेट्रियोसिस (Endometriosis) और पेल्विक इंफेक्शन से पीड़ित थी। सही इलाज से उसका दर्द हमेशा के लिए खत्म हो गया।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">महिलाओं में होने वाली मुख्य समस्याएं:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>डिस्पेरूनिया (Dyspareunia):</strong> संबंध के दौरान या बाद में तेज दर्द होना।</li>\n<li><strong>वेजिस्मस (Vaginismus):</strong> अनैच्छिक मांसपेशियों का संकुचन।</li>\n<li><strong>हार्मोनल ड्राईनेस व इन्फेक्शन:</strong> फंगल या बैक्टीरियल इन्फेक्शन से तेज जलन और खुजली।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> महिलाओं में सेक्स समस्या, dyspareunia, sexual health women, endometriosis, couple counselling, women health.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "स्त्री रोग विशेषज्ञ डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:15:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "burden-of-manhood-erectile-dysfunction-story-hi",
+    "title": "“मर्दानगी का बोझ” — पुरुषों में नपुंसकता की कहानी",
+    "slug": "erectile-dysfunction-mens-health-awareness-story-hindi",
+    "excerpt": "पुरुषों में Erectile Dysfunction यानी नपुंसकता आज एक आम समस्या है, लेकिन शर्म के कारण ज्यादातर पुरुष डॉक्टर के पास नहीं जाते। सही इलाज से यह ठीक हो सकता है।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">🩺 यह कोई शर्म की बात नहीं, बल्कि हाई बीपी और डायबिटीज जैसी सामान्य बीमारी है</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">38 वर्षीय विकास को जब इरेक्टाइल डिस्फंक्शन (ED) की समस्या हुई तो उसने शर्म के मारे दोस्तों से WhatsApp पर मिली फर्जी गोलियां खानी शुरू कीं, जिससे उसकी दिल की धड़कन बढ़ गई। जब वह योग्य यूरोलॉजिस्ट के पास पहुंचा, तो पता चला कि इसका कारण उसकी अनियंत्रित डायबिटीज और तनाव था।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">डॉक्टर की सख्त सलाह:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>सड़क किनारे लगे बोर्ड या सोशल मीडिया के फर्जी नीम-हकीमों के चक्कर में अपनी जान जोखिम में न डालें।</li>\n<li>ब्लड शुगर, लिपिड प्रोफाइल और टेस्टोस्टेरोन की जांच कराएं। 90% मामलों में दवा और स्वस्थ लाइफस्टाइल से पूर्ण सुधार होता है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> erectile dysfunction, नपुंसकता, men’s sexual health, low testosterone, diabetes, couple counselling.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "यूरोलॉजी एवं पुरुष स्वास्थ्य डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:30:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "fear-real-face-hiv-10-myths-facts-story-hi",
+    "title": "“डर का असली चेहरा” — HIV के 10 Myths",
+    "slug": "hiv-aids-10-myths-facts-treatment-awareness-hindi",
+    "excerpt": "HIV को लेकर आज भी समाज में डर और भ्रम है। कई लोग HIV पॉजिटिव लोगों से दूरी बनाते हैं, जो गलत है। सही जानकारी और इलाज से HIV पॉजिटिव व्यक्ति सामान्य जीवन जी सकता है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🎗️ HIV छूने से नहीं फैलता — अज्ञानता से डरें, इंसान से नहीं</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">26 वर्षीय अमन जब एचआईवी पॉजिटिव पाया गया तो उसने डिप्रेशन में खाना-पीना छोड़ दिया। लेकिन जब वह सरकारी एआरटी (ART) सेंटर गया, तो डॉक्टरों ने बताया कि आधुनिक एंटीरेट्रोवायरल दवाओं से आज एचआईवी एक सामान्य क्रोनिक बीमारी बन चुका है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">HIV से जुड़े 10 बड़े भ्रम और सच्चाई:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>हाथ मिलाने, साथ खाने, गले लगाने या टॉयलेट साझा करने से एचआईवी कभी नहीं फैलता।</li>\n<li>मच्छर के काटने से एचआईवी नहीं फैलता।</li>\n<li>एचआईवी का मतलब मृत्यु नहीं है; नियमित दवा लेने पर मरीज 70-80 वर्ष तक सामान्य जीवन जीता है।</li>\n<li>सरकारी आईसीटीसी (ICTC) केंद्रों में जांच और दवाइयां पूरी तरह मुफ्त उपलब्ध हैं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> HIV myths, HIV treatment, ART, HIV testing, ICTC, AIDS awareness, HIV in Hindi.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "संक्रामक रोग जागरूकता ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T17:45:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "pain-after-intimacy-pelvic-health-story-hi",
+    "title": "“वो रात जो दर्द बन गई” — सेक्स के बाद दर्द की कहानी",
+    "slug": "pain-after-intimacy-pelvic-inflammatory-disease-story-hindi",
+    "excerpt": "कई महिलाओं को सेक्स के बाद दर्द होता है, लेकिन वे इसे सामान्य मानकर सहती हैं। यह किसी संक्रमण, इंजरी या अन्य समस्या का संकेत हो सकता है। समय पर इलाज जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">🩺 दर्द को नजरअंदाज न करें — जानिए पेल्विक इंफ्लेमेटरी डिजीज (PID) के खतरे</div>\n\n<p class=\"text-lg leading-relaxed mb-4\">मीरा हर बार संबंध के बाद पेट के निचले हिस्से में होने वाले असहनीय दर्द को सामान्य मानती रही। जब दर्द बर्दाश्त से बाहर हुआ तो जांच में पेल्विक इंफ्लेमेटरी डिजीज (PID) का पता चला। समय पर एंटीबायोटिक्स कोर्स से उसकी समस्या ठीक हुई।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">कब तुरंत डॉक्टर के पास जाएं?</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>संबंध के बाद तेज पेल्विक दर्द या बुखार महसूस होना।</li>\n<li>असामान्य, बदबूदार स्राव या असामान्य ब्लीडिंग होना।</li>\n<li>पेशाब में तेज जलन या लगातार भारीपन रहना।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> sex ke baad dard, pelvic inflammatory disease, dyspareunia, महिला स्वास्थ्य, STD, women health.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "महिला कल्याण डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "womens-asia-cup-2026-india-trophy-controversy-mohsin-naqvi-hi",
+    "title": "विमेंस एशिया कप 2026: मोहसिन नकवी और भारतीय महिला क्रिकेट टीम विवाद, टीम इंडिया ने ट्रॉफी लेने से किया इनकार",
+    "slug": "womens-asia-cup-2026-final-india-sri-lanka-mohsin-naqvi-trophy-controversy",
+    "excerpt": "विमेंस एशिया कप 2026 के फाइनल में भारतीय महिला क्रिकेट टीम ने श्रीलंका को 72 रनों से हराकर रिकॉर्ड 8वीं बार खिताब जीता। हालांकि, एसीसी अध्यक्ष मोहसिन नकवी के हाथों ट्रॉफी लेने से इनकार के बाद सेरेमनी बिना ट्रॉफी समाप्त हुई।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-800 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">🏆 टीम इंडिया 8वीं बार बनी एशिया कप चैंपियन — प्रेजेंटेशन सेरेमनी में बना हाई-वोल्टेज ड्रामा</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>कोलंबो / नई दिल्ली:</strong> विमेंस एशिया कप 2026 के फाइनल मुकाबले में भारतीय महिला राष्ट्रीय क्रिकेट टीम ने शानदार खेल का प्रदर्शन करते हुए श्रीलंका को 72 रनों के बड़े अंतर से मात देकर रिकॉर्ड 8वीं बार एशिया कप का ताज अपने नाम कर लिया।</p>\n\n<p class=\"mb-4\">हालांकि मैच के बाद आयोजित प्रेजेंटेशन सेरेमनी में उस वक्त भारी कूटनीतिक विवाद खड़ा हो गया जब भारतीय महिला टीम ने एशियन क्रिकेट काउंसिल (ACC) के अध्यक्ष और पाकिस्तान के गृहमंत्री मोहसिन नकवी के हाथों से विनर ट्रॉफी लेने से साफ मना कर दिया। टीम इंडिया के इस कड़े रुख के बाद आयोजकों को बिना ट्रॉफी सौंपे ही सेरेमनी समाप्त करनी पड़ी।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">मैच का संक्षिप्त हाल:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>भारत ने पहले बल्लेबाजी करते हुए निर्धारित 20 ओवरों में 4 विकेट पर 182 रन बनाए।</li>\n<li>स्मृति मंधाना ने 44 गेंदों पर शानदार 68 रनों की कप्तानी पारी खेली, जबकि जेमिमा रोड्रिग्स ने नाबाद 42 रन जोड़े।</li>\n<li>लक्ष्य का पीछा करने उतरी श्रीलंकाई टीम भारतीय स्पिन गेंदबाजी के सामने 18.4 ओवरों में मात्र 110 रनों पर सिमट गई।</li>\n<li>दीप्ति शर्मा ने 4 ओवरों में मात्र 15 रन देकर 4 बड़े विकेट चटकाए और प्लेयर ऑफ द मैच रहीं।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Women Asia cup 2026, Mohsin Naqvi, Indian women cricket team, trophy controversy, Smriti Mandhana, ACC president.</p>",
+    "categoryId": "c6",
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "स्पोर्ट्स डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:15:00Z",
+    "readTime": "5 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "rajasthan-nikay-chunav-results-2026-bjp-congress-hi",
+    "title": "राजस्थान निकाय चुनाव 2026 परिणाम: बीजेपी का दबदबा, 3500+ वार्ड जीतकर फहराया परचम",
+    "slug": "rajasthan-nikay-chunav-results-2026-bjp-congress-ward-wise-winners",
+    "excerpt": "राजस्थान में 309 नगरीय निकायों के चुनाव परिणाम घोषित। सत्तारूढ़ बीजेपी ने 3,587 से अधिक वार्ड जीतकर कांग्रेस पर निर्णायक बढ़त हासिल की। जयपुर, कोटा और उदयपुर में खिला कमल।",
+    "content": "<div class=\"article-lead-badge bg-amber-50 text-amber-800 border border-amber-200 px-4 py-2 rounded-lg font-semibold mb-6\">🗳️ 2028 विधानसभा चुनाव से पहले का सेमीफाइनल — 10 में से 8 नगर निगमों में बीजेपी का कब्जा</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>जयपुर:</strong> राजस्थान में 309 नगर निकायों (नगर निगम, नगर परिषद और नगरपालिकाओं) के बहुप्रतीक्षित चुनाव परिणाम घोषित हो चुके हैं। सत्तारूढ़ भारतीय जनता पार्टी (BJP) ने प्रचंड जीत दर्ज करते हुए कांग्रेस को बड़े अंतर से पीछे छोड़ दिया है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">सीटों का आंकड़ा और प्रमुख निगमों का हाल:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>बीजेपी ने 3,587 से अधिक वार्डों में ऐतिहासिक जीत दर्ज की है, जबकि कांग्रेस 3,050 वार्डों पर सिमट गई।</li>\n<li>जयपुर हेरिटेज, जयपुर ग्रेटर, कोटा और उदयपुर नगर निगमों में बीजेपी का बोर्ड बनना तय हो गया है।</li>\n<li>बीकानेर में हालांकि केंद्रीय मंत्री अर्जुनराम मेघवाल के प्रभाव क्षेत्र में कांग्रेस ने अप्रत्याशित रूप से बीजेपी को हराकर अपनी बढ़त बनाई है।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Rajasthan Nikay Chunav 2026, Rajasthan municipal elections, BJP vs Congress, Jaipur municipal corporation results.</p>",
+    "categoryId": "c3",
+    "imageUrl": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "राजनीतिक ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:30:00Z",
+    "readTime": "4 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "football-ligue-1-brest-vs-psg-match-report-hi",
+    "title": "फुटबॉल लीग 1: Brest vs PSG रोमांचक मुकाबला, फेरान टोरेस के गोल से पेरिस सेंट-जर्मेन की 1-0 से जीत",
+    "slug": "ligue-1-brest-vs-psg-match-report-ferran-torres-goal",
+    "excerpt": "फ्रांसीसी लीग 1 के रोमांचक मुकाबले में पेरिस सेंट-जर्मेन (PSG) ने ब्रेस्ट को 1-0 से हरा दिया। 5वें मिनट में फेरान टोरेस ने निर्णायक गोल किया।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">⚽ Ligue 1 2026-27: गोलकीपर सफोनोव के शानदार बचावों से PSG ने दर्ज की जीत</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>पेरिस:</strong> फ्रांसीसी फुटबॉल लीग (Ligue 1) 2026–27 सीजन के एक कड़े मुकाबले में पेरिस सेंट-जर्मेन (PSG) ने स्टेड ब्रेस्टोइस (Brest) को 1-0 से शिकस्त दी। मैच का एकमात्र और विजयी गोल खेल के 5वें मिनट में स्पेनिश स्टार फेरान टोरेस ने ओसमाने डेम्बेले के शानदार क्रॉस पर दागा।</p>\n\n<p class=\"mb-4\">ब्रेस्ट की टीम ने पूरे मैच में शानदार आक्रामकता दिखाई, लेकिन PSG के गोलकीपर मत्वे सफोनोव की दीवार को भेदने में नाकाम रहे। इस जीत के साथ PSG अंक तालिका में शीर्ष पर पहुंच गई है।</p>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Brest vs PSG, Ligue 1, Ferran Torres goal, Paris Saint-Germain, football scores.</p>",
+    "categoryId": "c6",
+    "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "इंटरनेशनल स्पोर्ट्स डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T18:45:00Z",
+    "readTime": "4 मिनट",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "systemiq-himalayan-glaciers-melting-black-carbon-study-hi",
+    "title": "Systemiq स्टडी की चेतावनी: 65% तेजी से पिघल रहे हिमालय के ग्लेशियर, ब्लैक कार्बन बना बड़ा खतरा",
+    "slug": "systemiq-himalayan-glaciers-melting-black-carbon-water-security-study",
+    "excerpt": "ग्लोबल सस्टेनेबिलिटी फर्म Systemiq की रिपोर्ट: हिमालय के ग्लेशियर एक दशक पहले की तुलना में 65% तेजी से पिघल रहे हैं। मैदानी इलाकों के ईंट-भट्ठों से निकलने वाला ब्लैक कार्बन 33% पिघलन का जिम्मेदार।",
+    "content": "<div class=\"article-lead-badge bg-cyan-50 text-cyan-800 border border-cyan-200 px-4 py-2 rounded-lg font-semibold mb-6\">🏔️ 'ग्लेशियर दिवालियेपन' की कगार पर एशिया का वाटर टॉवर — 2 अरब लोगों पर जल संकट का खतरा</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>लंदन / नई दिल्ली:</strong> वैश्विक पर्यावरण शोध संस्था Systemiq द्वारा जारी ताजा रिपोर्ट ने पूरी दुनिया के वैज्ञानिकों को स्तब्ध कर दिया है। रिपोर्ट के अनुसार हिंदूकुश हिमालय के ग्लेशियर पिछले एक दशक की तुलना में 65% अधिक तीव्र गति से पिघल रहे हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">अध्ययन के सबसे चौंकाने वाले बिंदु:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>ब्लैक कार्बन (कालिख) का कहर:</strong> ग्लेशियरों के पिघलने का 33% कारण मैदानी इलाकों के ईंट-भट्ठों, पराली और डीजल वाहनों से निकलने वाली कालिख है, जो बर्फ पर चिपककर धूप सोखती है।</li>\n<li><strong>भारतीय अर्थव्यवस्था पर असर:</strong> हिमालय का जल तंत्र भारत की 20% जीडीपी को जीवनरेखा प्रदान करता है। यदि यह पिघलन नहीं थमी, तो गंगा, सिंधु और ब्रह्मपुत्र बेसिन में भयानक सूखा और बाढ़ आएगी।</li>\n<li><strong>वैज्ञानिकों की अपील:</strong> तत्काल प्रभाव से ग्रीन ब्रिक-किलन टेक्नोलॉजी और शून्य-उत्सर्जन वाहनों को अनिवार्य किया जाए।</li>\n</ul>\n\n<hr class=\"my-8 border-gray-200\" />\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Systemiq Himalayan glaciers, climate change India, black carbon pollution, glacier melting, water crisis Asia.</p>",
+    "categoryId": "c8",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "पर्यावरण व क्लाइमेट डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T19:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "sexual-health-5-myths-facts-hi",
+    "title": "यौन स्वास्थ्य: सेक्स से जुड़े 5 Myths, जो आज भी लोग सच मानते हैं",
+    "slug": "sexual-health-5-myths-facts-awareness-hindi",
+    "excerpt": "यौन स्वास्थ्य को लेकर आज भी कई भ्रम हैं। विशेषज्ञों का कहना है कि सही जानकारी न होने से लोग डॉक्टर के पास जाने से बचते हैं, जिससे बीमारी बढ़ जाती है। यौन स्वास्थ्य पर खुलकर बात करना जरूरी है, क्योंकि यह शारीरिक और मानसिक सेहत दोनों से जुड़ा है।",
+    "content": "<div class=\"article-lead-badge bg-rose-50 text-rose-700 border border-rose-200 px-4 py-2 rounded-lg font-semibold mb-6\">📌 Doctor-verified facts, शर्म नहीं जानकारी जरूरी</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली / रांची:</strong> भारत में यौन स्वास्थ्य पर खुलकर बात करना आज भी taboo माना जाता है। लेकिन डॉक्टरों और स्वास्थ्य विशेषज्ञों का कहना है कि सही जानकारी और समय पर इलाज से कई गंभीर समस्याओं को रोका जा सकता है। यौन स्वास्थ्य सिर्फ सेक्स तक सीमित नहीं है; इसमें प्रजनन स्वास्थ्य, संक्रमण से बचाव, मानसिक स्वास्थ्य, आपसी सहमति (Consent) और स्वस्थ रिश्ते शामिल हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 1: “Condom से संतान नहीं होती” — यह गलत है</h3>\n<p class=\"mb-4\">कंडोम न सिर्फ अनचाहे गर्भ (Pregnancy) को रोकता है, बल्कि HIV, सिफलिस (Syphilis), गोनोरिया (Gonorrhea) जैसे गंभीर यौन संचारित संक्रमणों (STI/STD) से भी 98% तक सुरक्षा प्रदान करता है। सही तरीके और गुणवत्ता वाले कंडोम का इस्तेमाल करने पर यह अत्यंत प्रभावी और सुरक्षित उपाय है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 2: “Periods late होने का मतलब सिर्फ Pregnancy” — जरूरी नहीं</h3>\n<p class=\"mb-4\">मासिक धर्म (Periods) में देरी होने के कई शारीरिक और मानसिक कारण हो सकते हैं। अत्यधिक मानसिक तनाव (Stress), पीसीओएस (PCOS), थायरॉइड असंतुलन, अचानक वजन घटना या बढ़ना, कुछ दवाइयों का सेवन और हार्मोनल बदलाव इसके सामान्य कारण हैं। यदि पीरियड्स लगातार 2-3 महीने तक अनियमित रहें, तो तुरंत स्त्री रोग विशेषज्ञ (Gynecologist) से सलाह लेनी चाहिए।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 3: “STI सिर्फ बाहर वालों या अनजान लोगों को होती है” — यह किसी को भी हो सकती है</h3>\n<p class=\"mb-4\">यौन संचारित संक्रमण (STI) का किसी व्यक्ति के नैतिक चरित्र से कोई लेना-देना नहीं है। यह संक्रमण किसी भी सक्रिय यौन जीवन वाले व्यक्ति को हो सकता है, चाहे वह वैवाहिक रिश्ते में ही क्यों न हो। इसके लक्षण कई बार महीनों तक नहीं दिखते। नियमित हेल्थ स्क्रीनिंग और समय पर एंटीबायोटिक या एंटीवायरल इलाज से इसे पूरी तरह ठीक किया जा सकता है। इलाज में देरी बांझपन (Infertility) का कारण बन सकती है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 4: “महिलाओं को सेक्स में दर्द होना Normal है” — नहीं, यह सामान्य नहीं है</h3>\n<p class=\"mb-4\">संबंध बनाते समय लगातार या असहनीय दर्द होना किसी अंतर्निहित समस्या का संकेत हो सकता है। यह योनि संक्रमण (Vaginal Infection), एंडोमेट्रियोसिस (Endometriosis), पेल्विक इंफ्लेमेटरी डिजीज (PID), या योनि में सूखापन (Dryness) के कारण हो सकता है। महिलाओं को इस दर्द को खामोशी से नहीं सहना चाहिए, बल्कि डॉक्टर से संपूर्ण जांच करानी चाहिए।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">Myth 5: “Sex Education से बच्चे बिगड़ते हैं” — शोध कहते हैं कि बच्चे सुरक्षित रहते हैं</h3>\n<p class=\"mb-4\">वैज्ञानिक शोध और यूनिसेफ के अध्ययन बताते हैं कि वैज्ञानिक सेक्स एजुकेशन बच्चों को भटकाने के बजाय सुरक्षित रखती है। इससे बच्चे गुड टच और बैड टच, शारीरिक बदलाव, सहमति (Consent), पर्सनल हाइजीन और यौन उत्पीड़न की पहचान सीखते हैं। यह उन्हें बाल शोषण और गलत जानकारियों से पूरी तरह सुरक्षित बनाता है।</p>\n\n<div class=\"bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-lg my-6\">\n<h4 class=\"font-bold text-amber-900 mb-1\">सहमति (Consent) का महत्व:</h4>\n<p class=\"text-amber-800 text-sm\">किसी भी शारीरिक संबंध के लिए दोनों पक्षों की पूर्ण और स्वतंत्र सहमति अनिवार्य है। बिना सहमति या दबाव में बनाया गया संबंध कानूनी रूप से अपराध है। महिलाओं और पुरुषों दोनों को अपने व्यक्तिगत शारीरिक अधिकारों के प्रति जागरूक होना चाहिए।</p>\n</div>\n\n<p class=\"mb-4\">यदि किसी को यौन संक्रमण, असामान्य स्राव, दर्द, या डिप्रेशन का सामना करना पड़ रहा है, तो बिना किसी झिझक के सरकारी अस्पताल, सामुदायिक स्वास्थ्य केंद्र (CHC) या योग्य सेक्सोलॉजिस्ट से परामर्श लें। अधिकांश सरकारी केंद्रों पर मुफ्त परामर्श और दवाइयां उपलब्ध हैं।</p>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या यौन स्वास्थ्य पर बात करना गलत या शर्मनाक है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">नहीं, यौन स्वास्थ्य संपूर्ण मानव स्वास्थ्य का एक अत्यंत महत्वपूर्ण और वैज्ञानिक हिस्सा है। इस पर बात न करने से बीमारियां बढ़ती हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या सभी STI का इलाज संभव है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, अधिकांश बैक्टीरियल और परजीवी STI समय पर सही एंटीबायोटिक्स से पूरी तरह ठीक हो जाते हैं। वायरल STI को भी उचित दवाओं से नियंत्रित रखा जा सकता है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. Consent (सहमति) क्या है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">किसी भी शारीरिक व भावनात्मक संबंध के लिए दोनों पक्षों द्वारा अपनी स्वतंत्र इच्छा, बिना किसी भय या नशे के, स्पष्ट रूप से दी गई 'हाँ' को सहमति कहते हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q4. डॉक्टर के पास कब तुरंत जाना चाहिए?</p>\n<p class=\"text-gray-700 text-sm mt-1\">प्राइवेट पार्ट्स में छाले, खुजली, असामान्य बदबूदार स्राव, संबंध के दौरान तेज दर्द या 2 महीने से अधिक पीरियड्स मिस होने पर तुरंत डॉक्टर से मिलें।</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> यौन स्वास्थ्य, sexual health in Hindi, STI symptoms, consent meaning, periods late reasons, condom facts, sex education, reproductive health.</p>",
+    "categoryId": "c_relationships",
+    "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "हेल्थ डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T11:00:00Z",
+    "readTime": "6 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "depression-awareness-symptoms-treatment-hi",
+    "title": "डिप्रेशन: ‘कमजोरी’ नहीं बीमारी, लक्षण पहचानें और इलाज कराएं",
+    "slug": "depression-symptoms-treatment-tele-manas-helpline-hindi",
+    "excerpt": "लगातार उदासी, नींद न आना और काम में मन न लगना सिर्फ टेंशन नहीं, डिप्रेशन हो सकता है। विशेषज्ञ कहते हैं कि इसका इलाज संभव है। जरूरत है तो बात करने और सही इलाज की।",
+    "content": "<div class=\"article-lead-badge bg-blue-50 text-blue-700 border border-blue-200 px-4 py-2 rounded-lg font-semibold mb-6\">📞 Tele-MANAS 14416 पर 24x7 मिलेगी मुफ्त मानसिक स्वास्थ्य मदद</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली:</strong> डिप्रेशन किसी व्यक्ति की कोई व्यक्तिगत कमजोरी या 'मन का वहम' नहीं, बल्कि एक चिकित्सकीय मानसिक बीमारी है। विश्व स्वास्थ्य संगठन (WHO) के आंकड़ों के अनुसार दुनिया भर में 30 करोड़ से अधिक लोग किसी न किसी रूप में अवसाद से ग्रसित हैं। भारत में भी युवाओं, प्रतियोगी छात्रों, कामकाजी पेशेवरों और बुजुर्गों में डिप्रेशन के मामले तेजी से बढ़ रहे हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">डिप्रेशन के प्रमुख लक्षण पहचानें:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>2 सप्ताह से अधिक समय तक लगातार गहरी उदासी, अकेलापन और निराशा महसूस होना।</li>\n<li>पहले जिन गतिविधियों या शौक में खुशी मिलती थी, उनमें पूरी तरह रुचि खत्म हो जाना।</li>\n<li>नींद का चक्र बिगड़ना — अनिद्रा (Insomnia) होना या दिनभर बिस्तर पर पड़े रहने का मन करना।</li>\n<li>भूख और शरीर के वजन में अचानक असामान्य गिरावट या असामान्य बढ़ोतरी।</li>\n<li>हर समय अत्यधिक शारीरिक थकान, कमजोरी और ऊर्जा की भारी कमी।</li>\n<li>काम, पढ़ाई या दैनिक जीवन में एकाग्रता (Focus) न बन पाना और फैसले लेने में घबराहट।</li>\n<li>मन में खुद को बेकार समझना, अत्यधिक अपराधबोध (Guilt) या आत्मग्लानि होना।</li>\n<li>जीवन खत्म करने या आत्महत्या के बार-बार विचार आना।</li>\n</ul>\n\n<div class=\"bg-indigo-50 border border-indigo-200 p-4 rounded-lg my-6\">\n<h4 class=\"font-bold text-indigo-900 mb-1\">मुफ्त सरकारी व गैर-सरकारी हेल्पलाइन नंबर:</h4>\n<ul class=\"text-sm text-indigo-800 space-y-1\">\n<li>• <strong>Tele-MANAS (भारत सरकार):</strong> 14416 (24 घंटे, टोल फ्री, सभी भारतीय भाषाओं में)</li>\n<li>• <strong>किरण (KIRAN) हेल्पलाइन:</strong> 1800-599-0019</li>\n<li>• <strong>AASRA हेल्पलाइन:</strong> +91-9820466726</li>\n<li>• <strong>iCall (TISS):</strong> +91-9152987821</li>\n</ul>\n</div>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">डिप्रेशन के मुख्य कारण:</h3>\n<p class=\"mb-2\"><strong>1. जैविक व न्यूरोलॉजिकल:</strong> मस्तिष्क में सेरोटोनिन और डोपामाइन जैसे न्यूरोट्रांसमीटर रसायनों का असंतुलन।</p>\n<p class=\"mb-2\"><strong>2. मनोवैज्ञानिक:</strong> बचपन का कोई गहरा मानसिक आघात (Trauma), गंभीर नुकसान या नकारात्मक सोच चक्र।</p>\n<p class=\"mb-2\"><strong>3. सामाजिक व आर्थिक:</strong> अकेलापन, पारिवारिक विवाद, रिश्तों में अलगाव, भारी कर्ज या बेरोजगारी का तनाव।</p>\n<p class=\"mb-4\"><strong>4. पर्यावरण व करियर:</strong> अत्यधिक वर्क प्रेशर, प्रतियोगी परीक्षाओं में लगातार विफलता और अस्वस्थ प्रतिस्पर्धा।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">वैज्ञानिक इलाज के 4 प्रमुख स्तंभ:</h3>\n<ol class=\"list-decimal pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>काउंसलिंग और साइकोथेरेपी:</strong> कॉग्निटिव बिहेवियरल थेरेपी (CBT) नकारात्मक सोच पैटर्न को बदलने में अत्यंत कारगर है।</li>\n<li><strong>चिकित्सकीय दवाएं (Antidepressants):</strong> मनोचिकित्सक (Psychiatrist) की देखरेख में दी जाने वाली आधुनिक दवाएं ब्रेन केमिकल्स को री-बैलेंस करती हैं।</li>\n<li><strong>स्वस्थ जीवनशैली:</strong> दैनिक 30 मिनट वॉक/योग, 7-8 घंटे की गहरी नींद और पौष्टिक खानपान ब्रेन में एंडोर्फिन रिलीज करता है।</li>\n<li><strong>मजबूत पारिवारिक सपोर्ट सिस्टम:</strong> अपनों से खुलकर बात करना और किसी भी तरह के नशे (अल्कोहल/ड्रग्स) से दूर रहना।</li>\n</ol>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. डिप्रेशन क्या है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">यह एक वास्तविक न्यूरोलॉजिकल और मानसिक बीमारी है, जिसमें व्यक्ति की भावनाओं, विचारों और दैनिक कार्यक्षमता पर गहरा नकारात्मक असर पड़ता है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या डिप्रेशन पूरी तरह ठीक हो सकता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, 80-90% मामलों में उचित थेरेपी, दवा और पारिवारिक सहयोग से मरीज सामान्य और खुशहाल जीवन में वापस लौट आते हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. डॉक्टर के पास कब जाना जरूरी है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">यदि उदासी या बेचैनी के लक्षण लगातार 2 सप्ताह से अधिक समय तक बने रहें या जीवन खत्म करने का विचार आए, तो बिना देरी किए तुरंत डॉक्टर से मिलें।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q4. सरकारी टेली-मानस हेल्पलाइन का क्या नंबर है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">भारत सरकार की निःशुल्क मानसिक स्वास्थ्य हेल्पलाइन 14416 है, जो चौबीसों घंटे उपलब्ध है।</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> depression in Hindi, डिप्रेशन के लक्षण, mental health helpline, Tele-MANAS, anxiety treatment, suicide prevention, मानसिक स्वास्थ्य.</p>",
+    "categoryId": "c9",
+    "imageUrl": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "मेंटल हेल्थ डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T11:30:00Z",
+    "readTime": "5 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "cyber-fraud-otp-upi-safety-rules-hi",
+    "title": "साइबर ठगी: OTP, UPI फ्रॉड से बचने के 5 जरूरी नियम",
+    "slug": "cyber-fraud-otp-upi-safety-rules-1930-helpline-hindi",
+    "excerpt": "UPI, OTP और लिंक के जरिए ठगी के मामले तेजी से बढ़ रहे हैं। पुलिस का कहना है कि जल्दी शिकायत करने पर पैसा वापस मिलने की संभावना बढ़ जाती है। लोगों को सतर्क रहने की जरूरत है।",
+    "content": "<div class=\"article-lead-badge bg-red-50 text-red-700 border border-red-200 px-4 py-2 rounded-lg font-semibold mb-6\">🚨 ठगी होते ही तुरंत 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत दर्ज करें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>रांची / नई दिल्ली:</strong> डिजिटल पेमेंट और ऑनलाइन सेवाओं के विस्तार के साथ ही साइबर अपराधियों के ठगी के तरीके भी बेहद आधुनिक और चालाक हो चुके हैं। साइबर क्राइम पुलिस के अनुसार, भारत में 70% से अधिक वित्तीय ठगी केवल पीड़ितों की जल्दबाजी और सोशल इंजीनियरिंग की वजह से होती है। सतर्कता ही आपका सबसे बड़ा सुरक्षा कवच है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">साइबर ठगी से बचाव के 5 अचूक नियम:</h3>\n<div class=\"space-y-3 mb-6\">\n<div class=\"p-3 bg-red-50 border-l-4 border-red-500 rounded\">\n<strong>नियम 1: किसी भी अनजान लिंक या APK फाइल पर क्लिक न करें</strong><br />\nव्हाट्सएप, एसएमएस या टेलीग्राम पर बिजली बिल, लॉटरी या पार्सल डिलीवरी के नाम पर आने वाले लिंक से फोन हैक हो सकता है।\n</div>\n<div class=\"p-3 bg-amber-50 border-l-4 border-amber-500 rounded\">\n<strong>नियम 2: ‘KYC बंद हो जाएगा’ या ‘सिम ब्लॉक होगी’ वाले मैसेज से सावधान रहें</strong><br />\nबैंक, टेलीकॉम कंपनियां या सरकारी विभाग कभी भी फोन पर धमकी देकर तुरंत ऐप डाउनलोड करने या पेमेंट करने को नहीं कहते।\n</div>\n<div class=\"p-3 bg-emerald-50 border-l-4 border-emerald-500 rounded\">\n<strong>नियम 3: पैसे प्राप्त करने के लिए कभी भी UPI PIN दर्ज न करें</strong><br />\nयाद रखें—पैसे पाने (Receive करने) के लिए केवल QR कोड भेजा जाता है, कभी भी अपना पिन या फिंगरप्रिंट नहीं लगाना पड़ता।\n</div>\n<div class=\"p-3 bg-blue-50 border-l-4 border-blue-500 rounded\">\n<strong>नियम 4: बैंक का कोई भी असली कर्मचारी OTP, CVV या पासवर्ड नहीं मांगता</strong><br />\nफोन पर बात करने वाला व्यक्ति यदि आपका पूरा नाम और खाता संख्या भी बता दे, तब भी उसे OTP साझा न करें।\n</div>\n<div class=\"p-3 bg-purple-50 border-l-4 border-purple-500 rounded\">\n<strong>नियम 5: ठगी होते ही 'गोल्डन ऑवर' में 1930 पर कॉल करें</strong><br />\nपैसे कटने के 1 से 2 घंटे के भीतर शिकायत दर्ज कराने पर नोडल बैंक खाते को तुरंत फ्रीज कर पैसा वापस दिला देता है।\n</div>\n</div>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">आजकल चल रहे सबसे आम साइबर फ्रॉड:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>OTP & SIM Swap Fraud:</strong> बैंक कर्मचारी बनकर ओटीपी लेना या 4G/5G अपग्रेड के नाम पर सिम डुप्लीकेट करना।</li>\n<li><strong>UPI QR Code Fraud:</strong> OLX या फेसबुक मार्केटप्लेस पर सामान खरीदने के बहाने फर्जी पेमेंट QR स्कैन कराना।</li>\n<li><strong>Work From Home / Task Fraud:</strong> टेलीग्राम पर यूट्यूब वीडियो लाइक करने या होटल रिव्यू के नाम पर भारी निवेश कराकर पैसे हड़पना।</li>\n<li><strong>Digital Arrest & Sextortion:</strong> पुलिस/सीबीआई अधिकारी बनकर वीडियो कॉल पर डराना या निजी वीडियो बनाकर ब्लैकमेल करना।</li>\n<li><strong>Fake Loan Apps:</strong> 5 मिनट में बिना दस्तावेज लोन देने के बहाने मोबाइल कॉन्टैक्ट्स और गैलरी हैक करना।</li>\n</ul>\n\n<div class=\"bg-gray-100 p-4 rounded-lg my-6\">\n<h4 class=\"font-bold text-gray-900 mb-2\">अगर पैसा कट जाए तो तुरंत ये 3 कदम उठाएं:</h4>\n<ol class=\"list-decimal pl-5 text-sm text-gray-700 space-y-1\">\n<li>तुरंत अपने बैंक के हेल्पलाइन नंबर पर कॉल करके अपना डेबिट कार्ड, नेटबैंकिंग और यूपीआई ब्लॉक कराएं।</li>\n<li>तत्काल <strong>1930</strong> डायल कर शिकायत रजिस्टर करवाएं और ट्रांजेक्शन आईडी नोट करवाएं।</li>\n<li>सभी स्क्रीनशॉट, कॉल रिकॉर्डिंग और एसएमएस का सबूत सुरक्षित रखकर <strong>cybercrime.gov.in</strong> पर शिकायत दर्ज करें।</li>\n</ol>\n</div>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. साइबर ठगी होने पर सबसे पहले कहां शिकायत करें?</p>\n<p class=\"text-gray-700 text-sm mt-1\">तुरंत राष्ट्रीय साइबर हेल्पलाइन 1930 पर कॉल करें या गृह मंत्रालय के पोर्टल cybercrime.gov.in पर रिपोर्ट करें।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या बैंक अधिकारी को फोन पर OTP बताना सुरक्षित है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">बिल्कुल नहीं! आरबीआई के नियमों के अनुसार कोई भी बैंक अधिकारी कभी भी ग्राहक से OTP, PIN या पासवर्ड नहीं मांगता।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. क्या साइबर फ्रॉड में गंवाया हुआ पैसा वापस मिल सकता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, यदि आप घटना के 2 घंटे के भीतर 1930 पर कॉल करते हैं, तो पुलिस संदिग्ध खाते को फ्रीज कर पैसा रिकवर करवा सकती है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q4. डिजिटल अरेस्ट क्या होता है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">यह एक फर्जी कॉल होती है जिसमें ठग खुद को पुलिस या कस्टम अधिकारी बताकर स्काइप या व्हाट्सएप पर घंटों बंधक रखने का नाटक करते हैं। कानून में ऐसा कोई प्रावधान नहीं है।</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> cyber fraud, UPI fraud, OTP scam, 1930 cyber helpline, online banking safety, sextortion, cyber crime complaint.</p>",
+    "categoryId": "c_crime",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "साइबर सुरक्षा ब्यूरो",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T12:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "free-ai-tools-students-business-productivity-hi",
+    "title": "AI टूल्स: Students और Business के लिए 5 Free AI Tools",
+    "slug": "free-ai-tools-students-business-productivity-hindi",
+    "excerpt": "AI टूल्स अब पढ़ाई और काम को आसान बना रहे हैं। कई फ्री टूल्स से रिसर्च, लेखन और डिजाइन तेजी से हो सकती है। लेकिन इनका इस्तेमाल सही तरीके से करना जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">⚡ समय बचाओ, स्मार्ट काम करो और प्रोडक्टिविटी 10 गुना बढ़ाओ</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>बेंगलुरु / रांची:</strong> आर्टिफिशियल इंटेलिजेंस (AI) अब केवल भविष्य की तकनीक नहीं, बल्कि आज के छात्रों और व्यापारियों का दैनिक हथियार बन चुका है। सही AI टूल्स की मदद से घंटों का असाइनमेंट, मार्केट रिसर्च, सोशल मीडिया कंटेंट और कोडिंग कुछ ही मिनटों में पूरा किया जा सकता है।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">टॉप 5 फ्री AI टूल्स जो हर छात्र और बिजनेसमैन के पास होने चाहिए:</h3>\n\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-white border border-gray-200 rounded-lg shadow-xs\">\n<h4 class=\"text-lg font-bold text-primary\">1. ChatGPT / Google Gemini / Claude (रिसर्च और राइटिंग)</h4>\n<p class=\"text-gray-700 text-sm mt-1\">छात्रों के लिए मुश्किल विषयों के कॉन्सेप्ट समझना, फॉर्मूला समझना, ईमेल ड्राफ्टिंग और प्रतियोगी परीक्षा की तैयारी के लिए यह सबसे शक्तिशाली असिस्टेंट है। बिजनेस वाले इसका इस्तेमाल कस्टमर सपोर्ट ईमेल और बिजनेस प्लान के लिए कर सकते हैं।</p>\n</div>\n\n<div class=\"p-4 bg-white border border-gray-200 rounded-lg shadow-xs\">\n<h4 class=\"text-lg font-bold text-primary\">2. Canva Magic Studio (ग्राफिक और सोशल मीडिया डिजाइन)</h4>\n<p class=\"text-gray-700 text-sm mt-1\">बिना किसी ग्राफिक डिजाइनिंग कोर्स के केवल टेक्स्ट लिखकर यूट्यूब थंबनेल, इंस्टाग्राम रील्स, पोस्टर, ब्रोशर और प्रेजेंटेशन स्लाइड तुरंत तैयार करें। छोटे दुकानदारों के लिए यह वरदान है।</p>\n</div>\n\n<div class=\"p-4 bg-white border border-gray-200 rounded-lg shadow-xs\">\n<h4 class=\"text-lg font-bold text-primary\">3. Grammarly & QuillBot (भाषा सुधार व प्रूफरीडिंग)</h4>\n<p class=\"text-gray-700 text-sm mt-1\">कॉलेज प्रोजेक्ट, रिज्यूमे और ऑफिशियल ईमेल में व्याकरण (Grammar), स्पेलिंग और टोन को परफेक्ट बनाने के लिए यह टूल छात्रों और जॉब सीकर्स के लिए बेहद अनिवार्य है।</p>\n</div>\n\n<div class=\"p-4 bg-white border border-gray-200 rounded-lg shadow-xs\">\n<h4 class=\"text-lg font-bold text-primary\">4. Notion AI (स्मार्ट नोट्स और प्रोजेक्ट मैनेजमेंट)</h4>\n<p class=\"text-gray-700 text-sm mt-1\">पढ़ाई के नोट्स को समराइज करने, ऑटो-टेबल बनाने, टू-डू लिस्ट और टीम के साथ मिलकर टास्क मैनेज करने के लिए Notion AI बहुत समय बचाता है।</p>\n</div>\n\n<div class=\"p-4 bg-white border border-gray-200 rounded-lg shadow-xs\">\n<h4 class=\"text-lg font-bold text-primary\">5. Copy.ai / Writesonic (मार्केटिंग और सेल्स कॉपी)</h4>\n<p class=\"text-gray-700 text-sm mt-1\">बिजनेस के लिए आकर्षक विज्ञापन टैगलाइन, ब्लॉग आईडिया, प्रोडक्ट डिस्क्रिप्शन और फेसबुक/गूगल एड कॉपी लिखने के लिए यह टूल अत्यधिक उपयोगी है।</p>\n</div>\n</div>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">AI टूल्स का इस्तेमाल करते समय 5 जरूरी सावधानियां:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>अंधाधुंध कॉपी-पेस्ट न करें:</strong> AI द्वारा दिए गए उत्तरों में गलतियां (Hallucinations) हो सकती हैं, हमेशा तथ्यों को क्रॉस-वेरिफाई करें।</li>\n<li><strong>अपनी मौलिकता (Creativity) न खोएं:</strong> AI को अपनी सोचने की क्षमता का विकल्प नहीं, बल्कि एक मददगार सहायक समझें।</li>\n<li><strong>गोपनीय डेटा शेयर न करें:</strong> किसी भी सार्वजनिक AI टूल में अपना व्यक्तिगत आधार नंबर, बैंक पासवर्ड या कंपनी का सीक्रेट डेटा न डालें।</li>\n<li><strong>प्रॉम्प्ट लिखना सीखें (Prompt Engineering):</strong> आप जितना स्पष्ट और विस्तृत निर्देश AI को देंगे, उतना ही बेहतरीन परिणाम मिलेगा।</li>\n</ul>\n\n<p class=\"mb-4\">आने वाले समय में उन लोगों की नौकरियां खतरे में नहीं पड़ेंगी जो AI का इस्तेमाल करना सीख रहे हैं, बल्कि उनकी नौकरियां जा सकती हैं जो खुद को अपडेट नहीं करेंगे। छात्रों को बेसिक प्रॉम्प्टिंग, डिजिटल लिटरेसी और कोडिंग स्किल अभी से शुरू कर देनी चाहिए।</p>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. क्या ये सभी AI टूल्स सच में पूरी तरह फ्री हैं?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, ChatGPT, Gemini, Canva और Notion के फ्री वर्जन सामान्य उपयोग, कॉलेज प्रोजेक्ट्स और छोटे बिजनेस के लिए पर्याप्त हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या AI से युवाओं की नौकरियां चली जाएंगी?</p>\n<p class=\"text-gray-700 text-sm mt-1\">पुराने ढर्रे के दोहराव वाले काम घटेंगे, लेकिन AI प्रॉम्प्ट इंजीनियर, डेटा एनालिस्ट, साइबर सिक्योरिटी और क्रिएटिव डिजाइनिंग में लाखों नए अवसर पैदा होंगे।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. कॉलेज के छात्र को कौन सी स्किल सबसे पहले सीखनी चाहिए?</p>\n<p class=\"text-gray-700 text-sm mt-1\">प्रॉम्प्ट इंजीनियरिंग (Prompt Engineering), डिजिटल मार्केटिंग, डेटा एनालिसिस और बेसिक कम्युनिकेशन स्किल्स सीखना सबसे अधिक फायदेमंद है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q4. क्या छोटे दुकानदार भी AI का उपयोग कर सकते हैं?</p>\n<p class=\"text-gray-700 text-sm mt-1\">बिल्कुल! छोटे व्यापारी Canva AI से दिवाली/ईद के डिस्काउंट पोस्टर बना सकते हैं और ChatGPT से आकर्षक सोशल मीडिया ऑफर तैयार कर सकते हैं।</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> free AI tools, ChatGPT in Hindi, AI for students, AI for business, Canva AI, Notion AI, future skills.</p>",
+    "categoryId": "c5",
+    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "टेक डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T12:30:00Z",
+    "readTime": "5 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "sarkari-scholarship-form-mistakes-nsp-hi",
+    "title": "Sarkari Yojana: Scholarship Form भरते समय ये 5 गलतियां न करें",
+    "slug": "sarkari-scholarship-form-mistakes-nsp-portal-hindi",
+    "excerpt": "हर साल कई छात्र scholarship form में छोटी गलतियों के कारण आवेदन खारिज करा देते हैं। जानें किन बातों का ध्यान रखें। सही जानकारी और समय पर आवेदन से लाभ मिल सकता है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">🎓 Eligibility, Documents और Deadline चेक करें — रिजेक्शन से बचें</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>नई दिल्ली / रांची:</strong> केंद्र और राज्य सरकारों द्वारा हर साल लाखों छात्रों के लिए प्री-मैट्रिक, पोस्ट-मैट्रिक, ई-कल्याण और नेशनल स्कॉलरशिप पोर्टल (NSP) के तहत करोड़ों रुपये की छात्रवृत्ति स्वीकृत की जाती है। लेकिन आंकड़ों के अनुसार 25% से अधिक आवेदन सिर्फ छोटी-मोटी गलतियों की वजह से रद्द (Reject) हो जाते हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">फॉर्म भरते समय होने वाली 5 सबसे बड़ी गलतियां:</h3>\n<div class=\"space-y-3 mb-6\">\n<div class=\"p-3 bg-red-50 border-l-4 border-red-500 rounded\">\n<strong>गलती 1: आधार कार्ड, बैंक खाते और 10वीं मार्कशीट में नाम/DOB का अंतर</strong><br />\nयदि आपके आधार कार्ड में नाम या जन्मतिथि आपके स्कूल रिकॉर्ड से अलग है, तो डीबीटी (DBT) पोर्टल पर आधार प्रमाणीकरण फेल हो जाएगा।\n</div>\n<div class=\"p-3 bg-amber-50 border-l-4 border-amber-500 rounded\">\n<strong>गलती 2: बैंक खाते में NPCI मैपिंग / Aadhaar Seeding न होना</strong><br />\nस्कॉलरशिप का पैसा केवल आधार लिंक बैंक खाते में ही आता है। यदि आपका बैंक खाता इनएक्टिव या NPCI से लिंक नहीं है, तो पैसा क्रेडिट नहीं होगा।\n</div>\n<div class=\"p-3 bg-blue-50 border-l-4 border-blue-500 rounded\">\n<strong>गलती 3: एक्सपायर्ड आय प्रमाण पत्र (Income Certificate) अपलोड करना</strong><br />\nआय प्रमाण पत्र सामान्यतः 6 महीने या 1 वित्तीय वर्ष के लिए ही मान्य होता है। पुराना या अमान्य प्रमाण पत्र लगाने पर फॉर्म तत्काल निरस्त हो जाता है।\n</div>\n<div class=\"p-3 bg-purple-50 border-l-4 border-purple-500 rounded\">\n<strong>गलती 4: अंतिम तिथि (Deadline) का इंतजार करना</strong><br />\nआखिरी 2-3 दिनों में NSP और ई-कल्याण का सर्वर भारी ट्रैफिक के कारण धीमा हो जाता है, जिससे कई छात्र फाइनल सबमिट करने से वंचित रह जाते हैं।\n</div>\n<div class=\"p-3 bg-emerald-50 border-l-4 border-emerald-500 rounded\">\n<strong>गलती 5: फाइनल सबमिट के बाद कॉलेज में हार्ड कॉपी जमा न करना</strong><br />\nऑनलाइन फॉर्म भरने के बाद अपने संबंधित स्कूल या कॉलेज के नोडल अधिकारी से संस्थान स्तर का वेरिफिकेशन (Institute Level Verification) कराना अनिवार्य होता है।\n</div>\n</div>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">फॉर्म भरने के लिए जरूरी दस्तावेजों की चेकलिस्ट:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li>सक्रिय मोबाइल नंबर से लिंक आधार कार्ड</li>\n<li>अद्यतन (Valid) आय प्रमाण पत्र (अंचलाधिकारी/SDO स्तर से निर्गत)</li>\n<li>जाति प्रमाण पत्र एवं स्थानीय निवास प्रमाण पत्र (यदि लागू हो)</li>\n<li>बैंक पासबुक (खाता छात्र के स्वयं के नाम पर सक्रिय होना चाहिए)</li>\n<li>पिछली कक्षा की उत्तीर्ण अंकसूची (Marksheet)</li>\n<li>कॉलेज/स्कूल का वर्तमान बोनाफाइड सर्टिफिकेट और फीस रसीद</li>\n<li>पासपोर्ट साइज ताजा फोटो और सफेद कागज पर किए गए स्पष्ट हस्ताक्षर</li>\n</ul>\n\n<div class=\"bg-amber-50 border border-amber-200 p-4 rounded-lg my-6\">\n<h4 class=\"font-bold text-amber-900 mb-1\">विशेष चेतावनी:</h4>\n<p class=\"text-sm text-amber-800\">किसी भी दलाल या साइबर कैफे वाले को अपना पासवर्ड न दें। केवल आधिकारिक सरकारी पोर्टल <strong>scholarships.gov.in</strong> या झारखंड सरकार के <strong>ekalyan.cgg.gov.in</strong> पर ही आवेदन करें। सरकार की ओर से आवेदन की कोई फीस नहीं ली जाती है।</p>\n</div>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. सरकारी स्कॉलरशिप के लिए आधिकारिक वेबसाइट कौन सी है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">केंद्र सरकार के लिए National Scholarship Portal (scholarships.gov.in) और झारखंड राज्य के छात्रों के लिए e-Kalyan (ekalyan.cgg.gov.in) आधिकारिक पोर्टल हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. क्या माता-पिता के संयुक्त खाते में स्कॉलरशिप आ सकती है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">नहीं, छात्रवृत्ति की राशि केवल छात्र के स्वयं के नाम वाले व्यक्तिगत बचत खाते में ही ट्रांसफर की जाती है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. यदि फॉर्म में गलती हो गई तो क्या सुधार संभव है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, इंस्टीट्यूट वेरिफिकेशन से पहले आप अपने स्कूल/कॉलेज नोडल अधिकारी से संपर्क कर आवेदन को डिफेक्टिव (Defective) मार्क करवाकर दोबारा एडिट कर सकते हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q4. क्या प्राइवेट कॉलेज के छात्र भी सरकारी स्कॉलरशिप ले सकते हैं?</p>\n<p class=\"text-gray-700 text-sm mt-1\">हाँ, यदि आपका प्राइवेट कॉलेज संबंधित विश्वविद्यालय/AICTE/UGC से मान्यता प्राप्त है और पोर्टल पर लिस्टेड है, तो आप पूरी तरह पात्र हैं।</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> scholarship form, National Scholarship Portal, सरकारी छात्रवृत्ति, scholarship documents, scholarship mistakes, Post-Matric Scholarship.</p>",
+    "categoryId": "c10",
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "शिक्षा समाचार डेस्क",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T13:00:00Z",
+    "readTime": "5 मिनट",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "garhwa-palamu-education-employment-opportunities-hi",
+    "title": "Jharkhand Local: Garhwa-Palamu में शिक्षा और रोजगार की नई संभावनाएं",
+    "slug": "garhwa-palamu-education-employment-skill-india-hindi",
+    "excerpt": "Garhwa और Palamu में अब शिक्षा और रोजगार के नए अवसर बन रहे हैं। सरकारी योजनाओं और निजी संस्थानों से युवाओं को फायदा मिल सकता है। सही जानकारी और समय पर कदम जरूरी है।",
+    "content": "<div class=\"article-lead-badge bg-emerald-50 text-emerald-700 border border-emerald-200 px-4 py-2 rounded-lg font-semibold mb-6\">📍 Local students के लिए skill और job opportunities — पलामू प्रमंडल का विकास मॉडल</div>\n\n<p class=\"text-lg leading-relaxed mb-4\"><strong>गढ़वा / डाल्टनगंज:</strong> झारखंड के गढ़वा और पलामू जिलों में शिक्षा, कौशल विकास और स्वरोजगार को लेकर एक बड़ा सकारात्मक परिवर्तन देखने को मिल रहा है। जो युवा पहले आजीविका और उच्च शिक्षा के लिए बड़े महानगरों की ओर पलायन करने को मजबूर थे, अब उनके लिए स्थानीय स्तर पर ही आधुनिक प्रशिक्षण और रोजगार के कई नए द्वार खुल रहे हैं।</p>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">शिक्षा और तकनीकी प्रशिक्षण के नए अवसर:</h3>\n<p class=\"mb-3\">पलामू प्रमंडल में सरकारी एवं निजी सहभागिता से तकनीकी और वोकेशनल शिक्षा को बढ़ावा मिल रहा है:</p>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>सरकारी व निजी ITI और पॉलिटेक्निक:</strong> गढ़वा और मेदिनीनगर में इलेक्ट्रीशियन, फिटर, वेल्डर और सिविल ड्राफ्ट्समैन जैसे व्यावहारिक कोर्स में दाखिले बढ़े हैं।</li>\n<li><strong>पैरामेडिकल व नर्सिंग कॉलेज:</strong> स्थानीय अस्पतालों की मांग को देखते हुए जीएनएम, एएनएम और लैब टेक्नीशियन प्रशिक्षण में बेटियों के लिए शानदार करियर बन रहा है।</li>\n<li><strong>डिजिटल लर्निंग और कंप्यूटर संस्थान:</strong> टैली, जीएसटी एकाउंटिंग, वेब डेवलपमेंट और डेटा एंट्री के केंद्रों से युवा सीधे जॉब मार्केट के लिए तैयार हो रहे हैं।</li>\n<li><strong>नीलांबर-पीतांबर विश्वविद्यालय:</strong> यूजी और पीजी स्तर पर नए जॉब-ओरिएंटेड पाठ्यक्रमों को शामिल किया जा रहा है।</li>\n</ul>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">स्थानीय स्तर पर रोजगार और स्वरोजगार के प्रमुख क्षेत्र:</h3>\n<div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 my-4\">\n<div class=\"p-3 bg-gray-50 border rounded-lg\">\n<h4 class=\"font-bold text-emerald-800\">1. आधुनिक कृषि एवं बागवानी</h4>\n<p class=\"text-sm text-gray-600\">ड्रिप इरिगेशन, पॉलीहाउस फार्मिंग, मशरूम उत्पादन और औषधीय पौधों की खेती में सरकारी सब्सिडी से भारी मुनाफा हो रहा है।</p>\n</div>\n<div class=\"p-3 bg-gray-50 border rounded-lg\">\n<h4 class=\"font-bold text-emerald-800\">2. लघु उद्योग एवं फूड प्रोसेसिंग</h4>\n<p class=\"text-sm text-gray-600\">सरसों तेल मिल, आटा-सत्तू चक्की, दाल मिल और स्थानीय उत्पादों के पैकेजिंग उद्योग में अपार संभावनाएं हैं।</p>\n</div>\n<div class=\"p-3 bg-gray-50 border rounded-lg\">\n<h4 class=\"font-bold text-emerald-800\">3. ट्रांसपोर्ट और रिटेल ट्रेडिंग</h4>\n<p class=\"text-sm text-gray-600\">एनएच 75 और फोरलेन कनेक्टिविटी सुधरने से लॉजिस्टिक्स, गोदाम और थोक व्यापार में हजारों युवाओं को रोजगार मिल रहा है।</p>\n</div>\n<div class=\"p-3 bg-gray-50 border rounded-lg\">\n<h4 class=\"font-bold text-emerald-800\">4. डिजिटल फ्रीलांसिंग व ऑनलाइन वर्क</h4>\n<p class=\"text-sm text-gray-600\">इंटरनेट कनेक्टिविटी के विस्तार से स्थानीय युवा घर बैठे ग्राफिक डिजाइन, ट्रांसक्रिप्शन और कंटेंट राइटिंग से अच्छी कमाई कर रहे हैं।</p>\n</div>\n</div>\n\n<h3 class=\"text-xl font-bold text-gray-900 mt-6 mb-3\">कल्याणकारी सरकारी योजनाएं जिनसे मिलेगा सीधा लाभ:</h3>\n<ul class=\"list-disc pl-6 space-y-2 mb-4 text-gray-800\">\n<li><strong>प्रधानमंत्री कौशल विकास योजना (PMKVY):</strong> युवाओं को निःशुल्क कौशल प्रशिक्षण और राष्ट्रीय स्तर का प्रमाण पत्र।</li>\n<li><strong>मुख्यमंत्री रोजगार सृजन योजना (CMEGP):</strong> अपना व्यवसाय शुरू करने के लिए 25 लाख रुपये तक का ऋण एवं 40% तक सब्सिडी।</li>\n<li><strong>पीएम विश्वकर्मा योजना:</strong> पारंपरिक कारीगरों (दर्जी, बढ़ई, लोहार, कुम्हार) को आधुनिक टूलकिट और आसान ब्याज पर लोन।</li>\n<li><strong>मुद्रा लोन योजना:</strong> छोटे व्यापारियों और दुकानदारों को बिना गारंटी 10 लाख रुपये तक का आसान लोन।</li>\n</ul>\n\n<div class=\"bg-emerald-50 border-l-4 border-emerald-600 p-4 rounded-r-lg my-6\">\n<h4 class=\"font-bold text-emerald-900 mb-1\">युवाओं के लिए विशेष सलाह:</h4>\n<p class=\"text-emerald-800 text-sm\">नौकरी दिलाने का झांसा देने वाले फर्जी एजेंटों को एक भी रुपया न दें। जिला उद्योग केंद्र (DIC), गढ़वा एवं पलामू के जिला नियोजनालय (Employment Exchange) में अपना नाम दर्ज कराएं और समय-समय पर लगने वाले रोजगार मेलों में भाग लें।</p>\n</div>\n\n<hr class=\"my-8 border-gray-200\" />\n\n<h3 class=\"text-xl font-bold text-gray-900 mb-4\">अक्सर पूछे जाने वाले सवाल (FAQ)</h3>\n<div class=\"space-y-4 mb-6\">\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q1. गढ़वा और पलामू में स्वरोजगार के लिए लोन कहां से मिलेगा?</p>\n<p class=\"text-gray-700 text-sm mt-1\">आप जिला उद्योग केंद्र (DIC) में मुख्यमंत्री रोजगार सृजन योजना (CMEGP) या किसी भी बैंक में प्रधानमंत्री मुद्रा योजना के तहत आवेदन कर सकते हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q2. मुफ्त स्किल ट्रेनिंग कहां मिलती है?</p>\n<p class=\"text-gray-700 text-sm mt-1\">सरकारी आईटीआई, आरसेटी (RSETI) और कौशल विकास केंद्र (PMKVY) में विभिन्न ट्रेडों में निशुल्क प्रशिक्षण दिया जाता है।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q3. जिला नियोजनालय में रजिस्ट्रेशन कैसे कराएं?</p>\n<p class=\"text-gray-700 text-sm mt-1\">झारखंड सरकार के रोजगार पोर्टल rojgar.jharkhand.gov.in पर ऑनलाइन या गढ़वा/मेदिनीनगर नियोजनालय कार्यालय में जाकर अपने दस्तावेजों के साथ पंजीकरण करा सकते हैं।</p>\n</div>\n<div class=\"p-4 bg-gray-50 rounded-lg border border-gray-200\">\n<p class=\"font-bold text-gray-900\">Q4. स्थानीय स्टार्टअप के लिए क्या संभावनाएं हैं?</p>\n<p class=\"text-gray-700 text-sm mt-1\">कृषि उत्पाद प्रसंस्करण, स्थानीय हस्तशिल्प, इको-टूरिज्म और होम-डिलीवरी सेवाओं में स्टार्टअप शुरू करने पर विशेष सरकारी मदद मिल रही है।</p>\n</div>\n</div>\n\n<p class=\"text-xs text-gray-500 pt-3 border-t\"><strong>SEO Keywords:</strong> Garhwa news, Palamu news, Jharkhand jobs, skill India, PMKVY, local employment, Jharkhand education.</p>",
+    "categoryId": "c_garhwa",
+    "imageUrl": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80&w=1200",
+    "author": {
+      "name": "गढ़वा ब्यूरो चीफ",
+      "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=100"
+    },
+    "date": "2026-09-14T13:30:00Z",
+    "readTime": "6 मिनट",
+    "featured": true,
+    "trending": true
+  },
   {
     "id": "crime_sextortion_hi",
     "title": "साइबर सेक्सटॉर्शन न्यूज़: वीडियो कॉल ब्लैकमेलिंग गिरोह पर पुलिस का कड़ा प्रहार, साइबर सेल ने जारी की एडवाइजरी",
@@ -4063,6 +4981,10 @@ export const breakingNews_en = [
   "AI companion 'Silica' unveiled in Hong Kong...",
   "Garhwa Road Infrastructure Project Approved...", "Garhwa Police Busted Inter-State Gang..."];
 export const breakingNews_hi = [
+  "विमेंस एशिया कप 2026: भारत ने श्रीलंका को 72 रनों से हराकर 8वीं बार जीता खिताब, मोहसिन नकवी से ट्रॉफी लेने से किया इनकार...",
+  "राजस्थान निकाय चुनाव: 309 निकायों में बीजेपी का परचम, 3500+ वार्ड जीते...",
+  "Systemiq रिपोर्ट: 65% तेजी से पिघल रहे हिमालय के ग्लेशियर, ब्लैक कार्बन का बड़ा खतरा...",
+  "फुटबॉल: फेरान टोरेस के गोल से PSG ने ब्रेस्ट को 1-0 से हराया...",
   "भारत की GDP पहली तिमाही में 7.8% बढ़ी, उम्मीदों से बेहतर...",
   "पिक्सल ने स्पेसटेक में जुटाए ₹945 करोड़, देश का सबसे बड़ा राउंड...",
   "क्वालकॉम और अमेज़न के बीच $60 बिलियन की एआई चिप डील...",

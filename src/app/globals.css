@@ -15,12 +15,16 @@
   --color-secondary: #F0FDF4;
   --color-accent: #FACC15;
   
-  --animate-marquee: marquee 30s linear infinite;
+  --animate-marquee: marquee 85s linear infinite;
   
   @keyframes marquee {
     0% { transform: translateX(0%); }
     100% { transform: translateX(-50%); }
   }
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
 }
 
 body {

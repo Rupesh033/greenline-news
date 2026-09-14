@@ -7,6 +7,7 @@ import { Clock, Share2, Link as LinkIcon, MessageSquare } from 'lucide-react';
 import AdPlaceholder from '@/components/AdPlaceholder';
 import NewsletterBox from '@/components/NewsletterBox';
 import ArticleCard from '@/components/ArticleCard';
+import CopyLinkButton from '@/components/CopyLinkButton';
 
 export async function generateMetadata({
   params,
@@ -277,17 +278,7 @@ export default async function ArticlePage({
                   >
                     WA
                   </a>
-                  <button
-                    onClick={() => {
-                      if (typeof window !== 'undefined' && navigator.clipboard) {
-                        navigator.clipboard.writeText(window.location.href);
-                        alert('Link copied to clipboard!');
-                      }
-                    }}
-                    className="w-8 h-8 rounded-full bg-gray-100 text-gray-600 flex items-center justify-center hover:bg-primary hover:text-white transition-colors"
-                  >
-                    <LinkIcon size={14} />
-                  </button>
+                  <CopyLinkButton />
                 </div>
               </div>
             </header>

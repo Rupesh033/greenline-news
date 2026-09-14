@@ -28,39 +28,6 @@ export default function Footer({ dict, categories, lang }: FooterProps) {
                 : 'Greenline News is the premier digital news agency based in Garhwa, Jharkhand. Under our motto "Truth in Every Line", we deliver trusted Garhwa news, Jharkhand breaking updates, viral stories, and grassroots investigative journalism.'}
             </p>
 
-            {/* Official Social Channels */}
-            <div className="pt-2">
-              <div className="text-xs uppercase font-bold text-gray-400 tracking-wider mb-2">
-                {isHindi ? 'हमारे ऑफिशियल चैनल्स' : 'Follow Our Channels'}
-              </div>
-              <div className="flex flex-wrap gap-2">
-                <a
-                  href="https://www.youtube.com/c/GreenLineNews"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-red-600 hover:bg-red-700 text-white text-xs font-bold px-3 py-1.5 rounded-md flex items-center gap-1.5 transition-colors"
-                >
-                  <span className="w-2 h-2 rounded-full bg-white animate-ping"></span>
-                  <span>YouTube 3.6L+</span>
-                </a>
-                <a
-                  href="https://www.facebook.com/greenlinenews/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold px-3 py-1.5 rounded-md transition-colors"
-                >
-                  <span>Facebook 2.8L+</span>
-                </a>
-                <a
-                  href="https://www.facebook.com/garhwagreenlinenews/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-blue-800 hover:bg-blue-900 text-white text-xs font-bold px-3 py-1.5 rounded-md transition-colors"
-                >
-                  <span>Garhwa FB</span>
-                </a>
-              </div>
-            </div>
           </div>
 
           {/* Quick Links Column */}

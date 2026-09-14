@@ -13,7 +13,7 @@ export default function Ticker({ breakingNews, dict }: { breakingNews?: string[]
         {dict.home.breaking}
       </div>
       <div className="flex-1 overflow-hidden relative h-[32px]">
-        <div className="animate-marquee whitespace-nowrap absolute top-1.5 flex space-x-12 px-4">
+        <div className="animate-marquee hover:[animation-play-state:paused] whitespace-nowrap absolute top-1.5 flex space-x-12 px-4">
           {breakingNews.map((news, index) => (
             <span key={index} className="text-sm font-medium text-gray-800 hover:text-primary transition-colors cursor-pointer">
               {news}
