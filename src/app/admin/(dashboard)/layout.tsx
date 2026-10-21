@@ -3,7 +3,8 @@ import { useEffect, useState } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import { useAdminAuth } from '@/store/adminAuth';
 import Link from 'next/link';
-import { 
+import {
+  Megaphone,
   LayoutDashboard, 
   FileText, 
   Layers, 
@@ -48,6 +49,7 @@ export default function DashboardLayout({
     { name: 'Users', href: '/admin/users', icon: Users, roles: ['admin'] },
     { name: 'Comments', href: '/admin/comments', icon: MessageSquare, roles: ['admin', 'editor'] },
     { name: 'Media', href: '/admin/media', icon: ImageIcon, roles: ['admin', 'editor'] },
+    { name: 'Ads & Banners', href: '/admin/ads', icon: Megaphone, roles: ['admin'] },
     { name: 'Settings', href: '/admin/settings', icon: Settings, roles: ['admin'] },
     { name: 'Subscribers', href: '/admin/subscribers', icon: Mail, roles: ['admin'] },
   ];

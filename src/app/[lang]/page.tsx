@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import ArticleCard from '@/components/ArticleCard';
 import AdPlaceholder from '@/components/AdPlaceholder';
+import { DualAdBanner } from '@/components/NativeAdBanners';
 import BrightBooksBanner from '@/components/BrightBooksBanner';
 import { getArticles, getVideos, getCategories } from '@/lib/data';
 import { getDictionary, ValidLocale } from '@/lib/dictionaries';
@@ -251,6 +252,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
       </section>
 
+            {/* Top Sponsored Dual Leaderboard */}
+      <DualAdBanner variant="leaderboard" isEnglish={!isHindi} />
+
       {/* DEDICATED JHARKHAND REGIONAL BUREAU HUB (Garhwa, Daltonganj, Palamu, Ranchi) */}
       <section className="bg-gradient-to-br from-emerald-950 via-gray-900 to-emerald-900 py-14 text-white mb-14">
         <div className="container mx-auto px-4 max-w-7xl">
@@ -419,9 +423,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
                 </div>
               </div>
 
-              {/* Sidebar Ad: Bright Books & Stationery */}
+              {/* Sidebar Ad: Web Developer / Verified Service */}
               <div className="flex justify-center">
-                <AdPlaceholder width={300} height={300} lang={validLang} />
+                <AdPlaceholder width={300} height={300} lang={validLang} slot="designer" />
               </div>
             </div>
           </div>
@@ -431,6 +435,14 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* Technology & Business Section */}
       {renderCategorySection('Technology', techArticles)}
       {renderCategorySection('Business', businessArticles)}
+
+      {/* In-Feed Google Display & Shopify Sponsored Leaderboard */}
+      <div className="container mx-auto px-4 max-w-7xl my-8">
+        <AdPlaceholder width={728} height={120} lang={validLang} />
+      </div>
+
+            {/* Mid-Page Featured Local Partners Showcase */}
+      <DualAdBanner variant="section" isEnglish={!isHindi} />
 
       {/* Video Section */}
       <section className="bg-gray-900 py-16 text-white">
