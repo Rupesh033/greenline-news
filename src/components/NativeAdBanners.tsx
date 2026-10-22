@@ -810,8 +810,9 @@ export function DualAdBanner({
             </div>
           </div>
 
-          {/* Card 2: Website Designer */}
-          <div className="bg-white dark:bg-zinc-900 border border-slate-200/90 dark:border-zinc-800 rounded-xl p-3 sm:p-3.5 flex items-center justify-between gap-3 shadow-xs hover:border-blue-500/60 dark:hover:border-blue-500/60 transition-all">
+                    {/* Card 2: Website Designer (Conditional) */}
+          {settings.showWebsiteDesignerAd && (
+            <div className="bg-white dark:bg-zinc-900 border border-slate-200/90 dark:border-zinc-800 rounded-xl p-3 sm:p-3.5 flex items-center justify-between gap-3 shadow-xs hover:border-blue-500/60 dark:hover:border-blue-500/60 transition-all">
             <div className="flex items-center gap-3 min-w-0">
               <div className="relative w-12 h-12 rounded-full overflow-hidden shrink-0 border-2 border-blue-500 bg-slate-900 shadow-2xs">
                 <Image src="/ads/webdesigner-profile.png" alt="Rupesh Vishwakarma" fill className="object-cover" />
@@ -851,6 +852,7 @@ export function DualAdBanner({
               </a>
             </div>
           </div>
+          )}
         </div>
       </div>
     );
@@ -877,9 +879,11 @@ export function DualAdBanner({
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-6">
+      <div className={`grid grid-cols-1 ${settings.showWebsiteDesignerAd ? 'md:grid-cols-2' : 'max-w-2xl mx-auto'} gap-4 lg:gap-6`}>
         <BrightBooksAd variant="card" isEnglish={isEnglish} />
-        <WebsiteDesignerAd variant="card" isEnglish={isEnglish} />
+        {settings.showWebsiteDesignerAd && (
+          <WebsiteDesignerAd variant="card" isEnglish={isEnglish} />
+        )}
       </div>
     </section>
   );

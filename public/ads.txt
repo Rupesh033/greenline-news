@@ -1,0 +1,5 @@
+# Google AdSense Official
+google.com, pub-7121887751803927, DIRECT, f08c47fec0942fa0
+
+# Monetag / PropellerAds (Ready when added)
+# monetag.com, YOUR_MONETAG_ID, DIRECT

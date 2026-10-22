@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Playfair_Display, Inter } from "next/font/google";
 import "../globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Ticker from "@/components/Ticker";
+import MonetagScript from "@/components/MonetagScript";
+import StationeryPromoPopup from "@/components/StationeryPromoPopup";
 import { getDictionary, ValidLocale } from "@/lib/dictionaries";
 import { getCategories, getBreakingNews } from "@/lib/data";
 
@@ -208,8 +211,23 @@ export default async function RootLayout({
   };
 
   return (
-    <html lang={validLang}>
+    <html lang={validLang} suppressHydrationWarning>
       <head>
+        {/* Google AdSense Account Verification */}
+        <meta name="google-adsense-account" content="ca-pub-7121887751803927" />
+
+        {/* Google AdSense Library */}
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7121887751803927"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+
+        {/* Alternate Ad Network: Monetag */}
+        <MonetagScript />
+
+        <script src="https://quge5.com/88/tag.min.js" data-zone="288311" async data-cfasync="false"></script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
@@ -221,11 +239,13 @@ export default async function RootLayout({
       </head>
       <body
         className={`${inter.variable} ${playfair.variable} font-sans bg-gray-50 text-gray-900 flex flex-col min-h-screen`}
+        suppressHydrationWarning
       >
         <Header dict={dict} categories={categories} lang={validLang} />
         <Ticker breakingNews={breakingNews} dict={dict} />
         <main className="flex-grow">{children}</main>
         <Footer dict={dict} categories={categories} lang={validLang} />
+        <StationeryPromoPopup lang={validLang} />
       </body>
     </html>
   );

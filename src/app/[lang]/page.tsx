@@ -17,7 +17,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
   const isHindi = validLang === 'hi';
 
   const featuredArticle = articles.find((a) => a.featured);
-  const latestArticles = articles.filter((a) => !a.featured).slice(0, 8);
+  const latestArticles = articles.filter((a) => a.id !== featuredArticle?.id).slice(0, 8);
   const trendingArticles = articles.filter((a) => a.trending).slice(0, 5);
 
   // Regional City Articles

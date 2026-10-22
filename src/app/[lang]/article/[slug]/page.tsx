@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { Clock, Share2, Link as LinkIcon, MessageSquare } from 'lucide-react';
 import AdPlaceholder from '@/components/AdPlaceholder';
+import InArticleAd from '@/components/InArticleAd';
 import NewsletterBox from '@/components/NewsletterBox';
 import ArticleCard from '@/components/ArticleCard';
 import CopyLinkButton from '@/components/CopyLinkButton';
@@ -303,6 +304,9 @@ export default async function ArticlePage({
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
 
+            {/* In-Article Multi-Tier Ad (Google AdSense with Amazon Affiliate Fallback) */}
+            <InArticleAd isEnglish={lang === 'en'} />
+
             {/* Tags & Keywords for SEO */}
             <div className="flex flex-wrap gap-2 mb-12 border-t border-gray-100 pt-8">
               <Link
@@ -418,7 +422,7 @@ export default async function ArticlePage({
           {/* Sidebar */}
           <aside className="lg:col-span-1 space-y-8">
             <div className="flex justify-center">
-              <AdPlaceholder width={300} height={250} lang={lang} />
+              <AdPlaceholder width={300} height={250} lang={lang} slot="designer" />
             </div>
 
             <div className="bg-white p-6 rounded-lg border border-gray-100 shadow-sm">
@@ -436,7 +440,7 @@ export default async function ArticlePage({
             <NewsletterBox mini />
 
             <div className="flex justify-center sticky top-24">
-              <AdPlaceholder width={300} height={600} lang={lang} />
+              <AdPlaceholder width={300} height={600} lang={lang} slot="amazon" />
             </div>
           </aside>
         </div>

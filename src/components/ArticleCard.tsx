@@ -48,7 +48,7 @@ export default function ArticleCard({ article, layout = 'grid', lang }: ArticleC
             </div>
             <div className="flex items-center">
               <Clock size={12} className="mr-1" />
-              <span>{formattedDate}</span>
+              <span suppressHydrationWarning>{formattedDate}</span>
             </div>
           </div>
         </div>
@@ -82,7 +82,7 @@ export default function ArticleCard({ article, layout = 'grid', lang }: ArticleC
             {article.excerpt}
           </p>
           <div className="flex items-center text-xs text-gray-500 mt-auto">
-            <span>{formattedDate}</span>
+            <span suppressHydrationWarning>{formattedDate}</span>
             <span className="mx-2">•</span>
             <span>{article.readTime} read</span>
           </div>
@@ -113,7 +113,7 @@ export default function ArticleCard({ article, layout = 'grid', lang }: ArticleC
               {article.title}
             </h4>
           </Link>
-          <span className="text-xs text-gray-500">{formattedDate}</span>
+          <span className="text-xs text-gray-500" suppressHydrationWarning>{formattedDate}</span>
         </div>
       </div>
     );
@@ -148,7 +148,7 @@ export default function ArticleCard({ article, layout = 'grid', lang }: ArticleC
           <div className="flex items-center">
             <span className="font-medium text-gray-700 mr-2">{article.author.name}</span>
           </div>
-          <span>{formattedDate}</span>
+          <span suppressHydrationWarning>{formattedDate}</span>
         </div>
       </div>
     </div>

@@ -422,13 +422,17 @@ export default async function CategoryPage({
         {/* Sidebar */}
         <div className="space-y-8">
           <div className="flex justify-center">
-            <AdPlaceholder width={300} height={250} lang={lang} />
+            <AdPlaceholder width={300} height={250} lang={lang} slot="books" />
           </div>
           <NewsletterBox mini />
           <div className="flex justify-center">
-            <AdPlaceholder width={300} height={600} lang={lang} />
+            <AdPlaceholder width={300} height={600} lang={lang} slot="amazon" />
           </div>
         </div>
+      </div>
+      {/* Bottom Category Leaderboard */}
+      <div className="mt-12 pt-8 border-t border-gray-100 category-bottom-leaderboard">
+        <AdPlaceholder width={970} height={120} lang={lang} />
       </div>
     </div>
   );
