@@ -96,9 +96,9 @@ export async function POST(req: NextRequest) {
     let articles: any[] = [];
     const readPaths = [primaryFile, tmpFile];
     for (const p of readPaths) {
-      if (fs.existsSync(p)) {
+      if (fs.existsSync(/*turbopackIgnore: true*/ p)) {
         try {
-          const raw = fs.readFileSync(p, "utf8");
+          const raw = fs.readFileSync(/*turbopackIgnore: true*/ p, "utf8");
           const parsed = JSON.parse(raw);
           if (Array.isArray(parsed) && parsed.length > 0) {
             articles = parsed;
