@@ -16,7 +16,7 @@ export async function generateMetadata({
   params: Promise<{ lang: string; slug: string }>;
 }): Promise<Metadata> {
   const { lang, slug } = await params;
-  const article = getArticleBySlug(slug, lang);
+  const article = await getArticleBySlug(slug, lang);
 
   if (!article) {
     return {
@@ -110,7 +110,7 @@ export default async function ArticlePage({
   params: Promise<{ lang: string; slug: string }>;
 }) {
   const { lang, slug } = await params;
-  const article = getArticleBySlug(slug, lang);
+  const article = await getArticleBySlug(slug, lang);
 
   if (!article) {
     notFound();

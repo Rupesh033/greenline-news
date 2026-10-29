@@ -5404,7 +5404,41 @@ export const breakingNews_hi = [
   "हांगकांग में AI सेक्स रोबोट 'सिलिका' पेश...",
   "गढ़वा में नई सड़क परियोजना को मंजूरी...", "गढ़वा पुलिस ने वाहन चोर गिरोह का किया भंडाफोड़..."];
 
+const UPSTASH_KV_URL = process.env.UPSTASH_REDIS_REST_URL || "https://positive-foxhound-71953.upstash.io";
+const UPSTASH_KV_TOKEN = process.env.UPSTASH_REDIS_REST_TOKEN || "gQAAAAAAARkRAAIncDIyZGE2ZDZmZGI5YTY0YWQ5YWI4YTRiY2E5NTVhMGI1MXAyNzE5NTM";
+
+let cachedUpstashArticles: Article[] = [];
+let lastUpstashFetch = 0;
+
+export async function getDynamicArticlesAsync(): Promise<Article[]> {
+  const now = Date.now();
+  if (cachedUpstashArticles.length > 0 && now - lastUpstashFetch < 10000) {
+    return cachedUpstashArticles;
+  }
+  try {
+    const res = await fetch(`${UPSTASH_KV_URL}/get/greenline:articles`, {
+      headers: { Authorization: `Bearer ${UPSTASH_KV_TOKEN}` },
+      cache: "no-store",
+    });
+    if (res.ok) {
+      const data = await res.json();
+      if (data && data.result) {
+        const parsed = typeof data.result === "string" ? JSON.parse(data.result) : data.result;
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          cachedUpstashArticles = parsed;
+          lastUpstashFetch = now;
+          return parsed;
+        }
+      }
+    }
+  } catch (err) {
+    console.warn("Upstash articles fetch failed:", err);
+  }
+  return getDynamicArticles();
+}
+
 function getDynamicArticles(): Article[] {
+  if (cachedUpstashArticles.length > 0) return cachedUpstashArticles;
   if (typeof window !== 'undefined') return [];
   try {
     const fs = eval("require('fs')");
@@ -5449,8 +5483,8 @@ export function getArticlesByCategory(categoryId: string, lang: string) {
   return getArticles(lang).filter(a => a.categoryId === categoryId);
 }
 
-export function getArticleBySlug(slug: string, lang: string) {
-  const dynamic = getDynamicArticles();
+export async function getArticleBySlug(slug: string, lang: string): Promise<Article | undefined> {
+  const dynamic = await getDynamicArticlesAsync();
   const decoded = decodeURIComponent(slug);
   const foundDynamic = dynamic.find(a => a.slug === slug || a.slug === decoded);
   if (foundDynamic) return foundDynamic;
