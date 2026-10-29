@@ -5404,8 +5404,29 @@ export const breakingNews_hi = [
   "हांगकांग में AI सेक्स रोबोट 'सिलिका' पेश...",
   "गढ़वा में नई सड़क परियोजना को मंजूरी...", "गढ़वा पुलिस ने वाहन चोर गिरोह का किया भंडाफोड़..."];
 
+function getDynamicArticles(): Article[] {
+  try {
+    const fs = require('fs');
+    const path = require('path');
+    const filePath = path.join(process.cwd(), 'src', 'data', 'dynamic-articles.json');
+    if (fs.existsSync(filePath)) {
+      const raw = fs.readFileSync(filePath, 'utf8');
+      const data = JSON.parse(raw);
+      if (Array.isArray(data)) return data;
+    }
+  } catch {
+    // Fallback if filesystem unavailable
+  }
+  return [];
+}
+
 export function getCategories(lang: string) { return lang === 'hi' ? categories_hi : categories_en; }
-export function getArticles(lang: string) { return lang === 'hi' ? articles_hi : articles_en; }
+export function getArticles(lang: string) {
+  const staticArticles = lang === 'hi' ? articles_hi : articles_en;
+  const dynamic = getDynamicArticles();
+  if (dynamic.length === 0) return staticArticles;
+  return [...dynamic, ...staticArticles];
+}
 export function getVideos(lang: string) { return lang === 'hi' ? videos_hi : videos_en; }
 export function getBreakingNews(lang: string) { return lang === 'hi' ? breakingNews_hi : breakingNews_en; }
 
@@ -5422,7 +5443,11 @@ export function getArticlesByCategory(categoryId: string, lang: string) {
 }
 
 export function getArticleBySlug(slug: string, lang: string) {
-  return getArticles(lang).find(a => a.slug === slug);
+  const dynamic = getDynamicArticles();
+  const decoded = decodeURIComponent(slug);
+  const foundDynamic = dynamic.find(a => a.slug === slug || a.slug === decoded);
+  if (foundDynamic) return foundDynamic;
+  return getArticles(lang).find(a => a.slug === slug || a.slug === decoded);
 }
 
 export function searchArticles(query: string, lang: string) {
