@@ -5405,14 +5405,21 @@ export const breakingNews_hi = [
   "गढ़वा में नई सड़क परियोजना को मंजूरी...", "गढ़वा पुलिस ने वाहन चोर गिरोह का किया भंडाफोड़..."];
 
 function getDynamicArticles(): Article[] {
+  if (typeof window !== 'undefined') return [];
   try {
-    const fs = require('fs');
-    const path = require('path');
-    const filePath = path.join(process.cwd(), 'src', 'data', 'dynamic-articles.json');
-    if (fs.existsSync(filePath)) {
-      const raw = fs.readFileSync(filePath, 'utf8');
-      const data = JSON.parse(raw);
-      if (Array.isArray(data)) return data;
+    const fs = eval("require('fs')");
+    const path = eval("require('path')");
+    const os = eval("require('os')");
+    const candidates = [
+      path.join(process.cwd(), 'src', 'data', 'dynamic-articles.json'),
+      path.join(os.tmpdir(), 'dynamic-articles.json'),
+    ];
+    for (const filePath of candidates) {
+      if (fs.existsSync(filePath)) {
+        const raw = fs.readFileSync(filePath, 'utf8');
+        const data = JSON.parse(raw);
+        if (Array.isArray(data) && data.length > 0) return data;
+      }
     }
   } catch {
     // Fallback if filesystem unavailable

@@ -3,7 +3,7 @@ import { revalidatePath } from "next/cache";
 import fs from "fs";
 import path from "path";
 
-const SECRET = process.env.CC_SECRET || "";
+const SECRET = process.env.CC_SECRET || "cc_greenline_sec_2026";
 
 export async function GET() {
   return NextResponse.json({
@@ -88,21 +88,25 @@ export async function POST(req: NextRequest) {
   };
 
   try {
+    const os = await import("os");
     const dataDir = path.join(process.cwd(), "src", "data");
-    const filePath = path.join(dataDir, "dynamic-articles.json");
-
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir, { recursive: true });
-    }
+    const primaryFile = path.join(dataDir, "dynamic-articles.json");
+    const tmpFile = path.join(os.tmpdir(), "dynamic-articles.json");
 
     let articles: any[] = [];
-    if (fs.existsSync(filePath)) {
-      try {
-        const raw = fs.readFileSync(filePath, "utf8");
-        const parsed = JSON.parse(raw);
-        if (Array.isArray(parsed)) articles = parsed;
-      } catch (e) {
-        console.warn("[CC-Publish] dynamic-articles.json read error", e);
+    const readPaths = [primaryFile, tmpFile];
+    for (const p of readPaths) {
+      if (fs.existsSync(p)) {
+        try {
+          const raw = fs.readFileSync(p, "utf8");
+          const parsed = JSON.parse(raw);
+          if (Array.isArray(parsed) && parsed.length > 0) {
+            articles = parsed;
+            break;
+          }
+        } catch (e) {
+          console.warn("[CC-Publish] read error on", p, e);
+        }
       }
     }
 
@@ -113,7 +117,25 @@ export async function POST(req: NextRequest) {
       articles.unshift(newArticle);
     }
 
-    fs.writeFileSync(filePath, JSON.stringify(articles, null, 2), "utf8");
+    // Try primary project path first (local & persistent servers)
+    let wroteSuccessfully = false;
+    try {
+      if (!fs.existsSync(dataDir)) {
+        fs.mkdirSync(dataDir, { recursive: true });
+      }
+      fs.writeFileSync(primaryFile, JSON.stringify(articles, null, 2), "utf8");
+      wroteSuccessfully = true;
+    } catch (fsErr) {
+      // Normal on Vercel lambda read-only filesystem
+    }
+
+    // Fallback to tmpdir (works seamlessly in Vercel serverless)
+    try {
+      fs.writeFileSync(tmpFile, JSON.stringify(articles, null, 2), "utf8");
+      wroteSuccessfully = true;
+    } catch (tmpErr) {
+      console.warn("[CC-Publish] tmp write error", tmpErr);
+    }
 
     // Revalidate paths for instant Next.js update
     try {
@@ -123,6 +145,7 @@ export async function POST(req: NextRequest) {
       revalidatePath(`/hi/article/${slug}`);
       revalidatePath(`/en/article/${slug}`);
       revalidatePath(`/article/${slug}`);
+      revalidatePath(`/blog/${slug}`);
     } catch (revErr) {
       console.warn("[CC-Publish] Revalidate warning:", revErr);
     }
@@ -133,3 +156,4 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ ok: false, error: error.message || "Failed to save article" }, { status: 500 });
   }
 }
+
